@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-10-28T21:36:49.574864+00:00",
+  "updatedAt": "2026-10-29T01:33:56.877952+00:00",
   "sourceStatus": {
     "successful": 6,
     "failed": 0
   },
   "disclaimer": "Public RSS / Google News only, not direct X posts. Delays vary. Rankings are keyword-based, not AI.",
   "items": [
+    {
+      "title": "Sam Altman’s ChatGPT AI Predicts PEPE to Spark a Meme Coin Supercycle - Cryptonews",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNamJzTkd3STBScjNSMk41dFljVUhQTE9fRDdrRExXYjBvUHlaZW9lZ2xoUnhkTTAyUjJncFJmdUgwN2ZyREQtbFpwR2F1Z05EM3Y4ZWVtRG80RWdtajVJU0lhQWJEckRmLXhFZWxxeGUySnFzazd0RkpjcllkdUl2LXpCZjlmWUx1WHlNNW94YnNNellVRUFBZG9raWQ?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-10-28T19:52:00+00:00",
+      "score": 4
+    },
     {
       "title": "Pump.fun launches Hyperliquid-powered perpetuals for crypto, stocks and commodities - Altcoin Buzz",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rdGZ4SXR3bUpFMjA1SGh0bDBRd09ld1UySjcxU2ZlT3QtcnVzNnFod000RDlyUHpKNmotaDNzRTlPb3pldGMtbURPQ0xXT1JEWDB0eVB3OTZMajU3N0d5QWhqX3VmaU5xMlFYUTIwS1FMVkk?oc=5",
@@ -18,6 +25,13 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONTV3VkpMNUVMMVdtajhJOHNaNThYZ1FPNWkzaUJYdEpFeDl2a1VEemZzVkp3d2gyX0NsdlR1cVpKa1l5UEZGMXZ0RmdGaHNtdzg1NTY5d0E2c01VVmY1b0lhcXo3Q1kwdHE2SzJCRkozMDNBOE14WTl0alhZc3NUcXlGZ3FWYm9hNFU5MlhrY0FNclFvTHMxcGtXYXY3ekdQNGVqQkd3enhUbG9KM3ZqUTdRWW5zUmY1MUtNZXdVVC16UlhPeXJ4OA?oc=5",
       "source": "Google News - Pump.fun",
       "published": "2026-10-28T18:25:10+00:00",
+      "score": 5
+    },
+    {
+      "title": "Pump.fun Sets Nov. 9 Start for Elysium Trading in Its App - The Defiant",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWTcwQzgxeXloYkxNOUpocklMN2JFcGRZRUp0X0prZFVQcVYzSVdIMFVqQ01DT21keDRwbjJoME5QQnRTaDBYSW1ZeWlPZGU5WkhzejR5Q2hoSE1oR0I5ODM3NzR5V3IwcDl1eFRuUkE4UGNFbndiRzRwZEk1U2lPdEN3azRSdG5RUEluTmt2bmFkZw?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-10-28T17:20:15+00:00",
       "score": 5
     },
     {
@@ -38,13 +52,6 @@
       "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
       "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
       "source": "CoinDesk",
-      "published": "2026-10-28T11:32:31+00:00",
-      "score": 4
-    },
-    {
-      "title": "Bitcoin tops $81,000 ahead of Fed decision as memecoins lead altcoin gains - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDNybUQtQnFUa2hNWGJUR2NNMGI5eVZEMmg3bWRYWnBaVGVPZGhQQWFvbXlwWk5NQTBwRnBLTTFWbXF3WkpVZEZTY0swNmwtTDFLa2sxekRnTjBuYlA1RENubmJlRHQyNWdzUF8wVGZxR0xYWC1idk1QMXFxeDJpRktITVlHc1dRVU4yQ253QldUQVZWZk5XX2Qxblh1bThia0QzckV2ZE44eTZ2bW1xS3VTdlFWWW1YSldBMHFhemw2YThIZ1cw?oc=5",
-      "source": "Google News - Pump.fun",
       "published": "2026-10-28T11:32:31+00:00",
       "score": 4
     },
@@ -70,20 +77,6 @@
       "score": 6
     },
     {
-      "title": "Pump.fun Sets Nov. 9 Start for Elysium Trading in Its App - The Defiant",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWTcwQzgxeXloYkxNOUpocklMN2JFcGRZRUp0X0prZFVQcVYzSVdIMFVqQ01DT21keDRwbjJoME5QQnRTaDBYSW1ZeWlPZGU5WkhzejR5Q2hoSE1oR0I5ODM3NzR5V3IwcDl1eFRuUkE4UGNFbndiRzRwZEk1U2lPdEN3azRSdG5RUEluTmt2bmFkZw?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-10-28T02:07:05+00:00",
-      "score": 5
-    },
-    {
-      "title": "Pump.fun Adds TON Token Purchases With Direct USDC Payments - www.tokenpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16SzNmWlJGOUZHN2pVN2RtRXVKMWxtejNwTGhqRk1udDNGZ296UFcyQlhndTcyS3hteE9paEgtU0hmY2pwTVZQelk4aHBNNExTN09mRjg3X1g5TWc?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-10-28T00:09:00+00:00",
-      "score": 5
-    },
-    {
       "title": "Best Meme Coin to Buy Right Now: Why MemeToro's AI Presale Is on the Watchlist Beside Pepe, Dogecoin and Bonk - TechBullion",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR2ZIdzluRFJmT1NmNmZ2bGRWejBGN21lcGw3WFEzR05lZm5CTTJsckRiemN0MlB6OVZUUm0xUWxFX3pCOFF6dzFuU3ZTRk1Id3hjVTJPQ1RmVDRHMURMLWcyUVdYbVEycHdTUWsxdVM5ZzlsdFFNVEhyeHVVOXJoeFkyZFlOVnM1cTlaeGJQTjE2WDZxNTl4eUI4OG1GNk1feGw4Y0l1dkVuaGlZcGZJamVxTFd5WnhUeTQ3VTBMS21GU25aTWlRMGZTTQ?oc=5",
       "source": "Google News - Pump.fun",
@@ -105,18 +98,18 @@
       "score": 5
     },
     {
+      "title": "Kate Miller: Could Binance Alpha be the next milestone for TART - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSnA0SGZmOGt6ZnZ3MFVxRDBxcWhHM2J5aDJuSnM3c0s3dFVWZjNQYWxKME43eEFGZFZLaW14djJ6ajlTd05fdWRRdFlsOWdTT2ZkcENfeUYxUGNrYndGYnlvWmloZzRMMUtMWU5xbnRKOFVfRC1FV2d0WEVLT3pxRlFUdnZ6UnF4czdoVHBqZw?oc=5",
+      "source": "Google News - Binance",
+      "published": "2026-10-27T16:50:19+00:00",
+      "score": 5
+    },
+    {
       "title": "Memecoin Trading App Referral Codes 2026: 7 Apps Compared - shattered.io",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmTTdYbmx3dXVGZHYza2VsOXRISVc0MUxBUnVVWVlRdkhYdjRETlpZM0RTdG81dnp3dXQxUHFPV19lUXFpVW5kZjFwRmpCeXp2Z2JEck9CWjVRT0pWS2tGaGh0OHU1S25z?oc=5",
       "source": "Google News - Pump.fun",
       "published": "2026-10-27T16:22:22+00:00",
       "score": 4
-    },
-    {
-      "title": "Faster Solana slots fail to stop memecoin bot snipers - Cryptonews.net",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hTzdVdWMzSEVJbEIwOVlucUdxc2t4a09aa3RuN3BvTk5JNUpUTGNZWmhkLWtwMWtmYTdQMGVjT3FRMGtXVXYtQU5JSkFvVWNielpPMEhpc1NfUQ?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-10-27T10:43:25+00:00",
-      "score": 6
     },
     {
       "title": "Dogecoin Gains 10% Amid Memecoin Market Recovery - KuCoin",
@@ -140,6 +133,13 @@
       "score": 11
     },
     {
+      "title": "5 Next Shiba Inu Coins for the Comeback Watchlist as Meme Coins Face Over $1 Billion in Binance Selling Pressure - openPR.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdmtrNXNSYmJSMmpHdUVsVklKdmxsUjJ3VzhERlVoeDJGWG91d051OGZ6RTdqb1hwZFB3TlVoQTMwV21oNTc5NXF0VU9YQXgycUFYUXpGai1HeHBLWXgzTU5Ja0U1UWJUVG9GZ2V6ajNRVGFTQ1huUGItVnZwR1FEcDlncW1HeXJaTmZOT3Y2U0pqT1RsT0NBdVB2U2lncmR2?oc=5",
+      "source": "Google News - Binance",
+      "published": "2026-10-26T18:16:48+00:00",
+      "score": 4
+    },
+    {
       "title": "AI agents are launching memecoins. MemeToro’s agent answers to open code - Crypto News",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0thMTV0Vkg2WVg2cTVzVFVWMnpXSXQ4RGJnUDRra0FmOWJDLUZ5Qkl5ZEEtbHc4LU9kdVNoTVZ3UDB5Y2RsZFJHTU5venMyNjlPWmhweU5ib2pjUGJ4M3FVUU9DcmhCUkpmM2llZTItYllQSVF3ak1qTHdybEVDeTZRLUxFUURYMWlrUU00Unl6blptcEE?oc=5",
       "source": "Google News - Pump.fun",
@@ -159,20 +159,6 @@
       "source": "Google News - Pump.fun",
       "published": "2026-10-26T10:36:17+00:00",
       "score": 8
-    },
-    {
-      "title": "Binance Alpha News: Alpha Box Goes Live, DGRAM Leads With 764%, and Stocks Enter the Mix - CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2h6RnZBSTRSTUpObUROQnkwc2N3RHVUb2hiU0F2X3dtUHFqLWlmTnk2SEt6X0xzRHpRb19JVkpZcURpRTNhcEFObGRpa1pBTXVvUm9LU213RWVpQ2hGSVhxeW9PTmpVbkp0dlN4X2tmT2Ffd09XNEJrUzYzTHcyR3hIeW9pTmkyaDZnWnRiRlpYeXdTTnVDZE5pSWt0MkR3NzJqMmFxcUpDeU81RWNEemhSUHg5SU1qOXhHQWR2Yi0xTGFtM2dCN05QLWViQQ?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-26T02:32:45+00:00",
-      "score": 5
-    },
-    {
-      "title": "BNB News: Binance Launches Pump.fun-Style Token Launch Model for Wallet Users - CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2VtSzhha1A2N0x1WWNIMVB5ZjdFTG1yVlpSZHpZQ1dLR2p0LVJnS2Y1WmY1X0RVMmJmbFZYUUE4MTFCTXQyc3pkbFJ3dUcwdGZETlh0LWlkZlR3OS11cktNZ2FRbFI0cXd2cWxKOEQtcWNPRTVEOE0wMDZOekgzM1hHWDZQTUV4eFBYaVhOcFl1SEZqd0Y4TmtQb3dZaDlFeU1tTldjWDl6SjF3a1VQTmdNb0x6VjNy?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-25T09:37:45+00:00",
-      "score": 6
     },
     {
       "title": "Javier Milei cleared in LIBRA memecoin scandal as judge dismisses charges - AMBCrypto",
@@ -203,6 +189,13 @@
       "score": 5
     },
     {
+      "title": "Binance Alpha Token Delisting Update: 7 Tokens Dropped, What Now? - Coin Gabbar",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONVlaRGwwdVpsamM3MlJyRkFVMlZ0VE9jRnF4X0Q0RkxfWURYOUpOM04tQVBZclFXYnJLTzc5NkdvZDlIa05rYWJrUW4tTDNlMGh1ZlJBaDVkaXVRX09LUVl6Uk1YUk54dTdpdGRWQnhQbUJ0NzdsX09rN19EYmZNQ2VaMnFaLW9hNWg4OWR1a1NkLTA3SDAw?oc=5",
+      "source": "Google News - Binance",
+      "published": "2026-10-24T06:35:00+00:00",
+      "score": 7
+    },
+    {
       "title": "Binance New Listing: AXIS Debuts on Binance Alpha and Upbit as Pepeto Presale Tops $11.2M - TechBullion",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVRfSjZUUVRVSV9PVkdLdmlKV3VCcXdXZkJGSXp6SVc5Z0sxa2EydXJrNTJhaEx6S05PWEtjZnpiaUc5TFYzQ2lfOXlLODQtVG1GVFhjV180X1ZPclBlOV91UkZrcWxscDVFczZRb0pSTXVCVnZOVWY0bDhMUHFyOGZZeF9OMllfbmN3MEdzOW44cm1OUEtvWExYSnZGdEJxX002STByc3pJamFzTkNzUmRR?oc=5",
       "source": "Google News - Binance",
@@ -217,13 +210,6 @@
       "score": 4
     },
     {
-      "title": "Binance Alpha Sets Oct. 23 Display-List Removal for PTB and Others - www.tokenpost.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uQmlNM0Q2bzhwS0gzNzRwb2xSLUJ6ZExpUTNNZjhrTHdBa2tDcEJhM1dUNVpXTG9DOWJxaEJXREFQbGY0MTZucFJBalFsamF1TTAwQ21JOFlONGJfbTdrUEFwOXhvcXlJbjBkVnpfNFI5dW01WlE?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-23T23:37:14+00:00",
-      "score": 5
-    },
-    {
       "title": "Argentine judge clears President Milei of wrongdoing in meme coin scandal - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSTlKUWt1eVRXTDJiamJoRFpodVg4ZVhxR3RyZGRncnQwLVd0OUFNcElzM1dOQnpmQlFWM2tkNWdFZGVNcHpXa1hQT2NmV1RtV2ljcW9kWmk4djI3YTdVdW5aaXROSk5IOFBjY3hlNTc1ZFJmNW12YWtrUXNjWW1iQk85VWJ3cGIyV0hOUXpGNy1NWW5CNjdnMTZFNDhhb0J0b0dpU1g1c0JNUHdEdHhXd3FyT2VZdVNtcDRfdkgzaEJlUFU?oc=5",
       "source": "Google News - Pump.fun",
@@ -235,6 +221,20 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWEQtU081Z2gxSDRzRm1OaTZRdUlQa0pLS2R6SkFlVWJJaUhKTmF4THpPcGhCY3BJVUdTM3BCa2dUWHd4WWUxSGJFcHFWQTg4MTJ0MEpYZUNIbXkwR21USzFfVFhFcWFQZ1NkVTdBVm1GZjV2SDVMUk12WnY3eGpZRXZzT2hONjBuRUdJd1lHNm1ZRDVPUmVnak52V3RBWm9IWEE5cFlnV3ItOU9PSXIzYk54LTBDclhSSHlhd0dOZzVJZ2NfZ0J6aHZ1Uk8yYzdw?oc=5",
       "source": "Google News - Pump.fun",
       "published": "2026-10-23T17:56:00+00:00",
+      "score": 4
+    },
+    {
+      "title": "Bitcoin (BTC) price recovers to $81,700 as memecoins lead altcoin rebound - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOakpZX3c5X1FHNW13TUdRTFlyQkI5YkwtWm9Fam5FRV9kVnlPUlk2dWo2SWpCWlJJTThCNWdUbFBIYmY0cVU0VkM2XzBweWdkenQ5eW5rX3M5RFFoY0ktc0FhOXVCcnUzV1lkSDZvVXVGNExQR0hNbGcyeVdrZUh6VnRKUTBLZVY5b3pKUVFLY2RqNXJZY0dyeWFJak1pQTBtZDVnQmJyRVNqcEdpdkxj?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-10-23T10:54:41+00:00",
+      "score": 4
+    },
+    {
+      "title": "Someone just sent Ripple's David Schwartz an XRP memecoin gift - www.thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcXJwSWFQTXV0T0N4b0NGczVRWmo2TXNkcU41ZVdscUpxY0ZzZXdrVnVFSTVKZms2UnNvcF8zdmt1NHJ5VzVPTnFITVNVOXQwV29tUU83T1h2ZEMtT0FLRmlsMmN4aWFPVm14emotTGpMOHZBOW5hZ1d1QVJvVC1WdFhQWE1MS3pyYWItVDkyaVZQeWktMHY2SEhxamZRM0tmQWNmZA?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-10-23T10:30:00+00:00",
       "score": 4
     },
     {
@@ -259,31 +259,10 @@
       "score": 7
     },
     {
-      "title": "Axis Robotics Price Prediction: AXIS Rallies as Binance Alpha and Upbit Listings Expand Trading Access - Cryptonews.net",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0NWctNmg4dmt2djZVa2hXR2VtdXZPd0d5dUVTWkM1WVZBbTFQSm5rU01RRUFNNFFkOEJoYTc1OWN0dkxRTlZ0dW1YTmo2NV8wd3hvTnN2ZmFBdjA?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-22T13:44:23+00:00",
-      "score": 7
-    },
-    {
-      "title": "Mitosis Token Debuts on Binance Alpha and Futures on Wednesday - CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaV9TTXFkNGRrQ21oR2EzWHZiR3VIOG5fSFVLam14ZVpkbVlYcHAtLWxZWnZTenBwemRsTUFrVGRHb210c0lobjBOaXdlUDVYcGtxV3hqMVYtNDdzbVVjZmN3alVqLXpIU1ZSaThtM1lIQmdwcHBTa21ybmpiNWdVM2x6ZThLeTRWQU4tSy10bTJOM2tFT1VTaWwwWU0teVY5TTdPeTd3MA?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-22T09:04:25+00:00",
-      "score": 5
-    },
-    {
       "title": "Dogecoin Expands Utility as Robinhood Memecoin Boom Reveals Crypto’s Biggest Adoption Engine - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDMtdWFmM0pBNW55QTNQQVlPZ0szVXExUTZWMEw3Mm9GWGZrZXgyRzIycTlKYm50Ynk5UFhSUXk3d3Jya0hzQlpIbjIydGhkWUtsT2lhUVRONWVxeTJ3SERDSE0yVFQ2b1EtaU9MVnpCQzRxM0VSVGtPU01vcDlrcC1KakZ5WFU2S2YzN2J0MTZmb205Snk4VlRWQmVESjJmTXAwbElrbmFKSC16?oc=5",
       "source": "Google News - Pump.fun",
       "published": "2026-10-22T08:29:21+00:00",
-      "score": 5
-    },
-    {
-      "title": "Binance Alpha Details 235-Point Requirement for Axis Robotics Airdrop - TOKENPOST",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ZGFGVDRTXzRvTzVRS3hTM2NwYVc4NFd1R0ZLOXdJOUd2MldhVEpVTDlnSFRJR3ZsR0kzX0prWjVnam43ZlF4d2R4WWJ1R0JIdTROcWF3dlc?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-21T16:08:43+00:00",
       "score": 5
     },
     {
@@ -301,34 +280,6 @@
       "score": 4
     },
     {
-      "title": "Binance Alpha Plans to Feature Axis Robotics (AXIS) on Oct. 21 - TOKENPOST",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5USTR4WUM5WGhpR2xocUlPRkpOWVZ1ZjNEc19BT05ySHpDaEtJY0w4WjhBbi1GS3JKQy1DbnY1OXJxOUQwVkZSb1lWbmptWThZQ1RXdXF4VVI?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-20T20:05:58+00:00",
-      "score": 5
-    },
-    {
-      "title": "Binance Alpha News: RaveDAO Runs 375%, Unitas Prints 30x, and the Mystery Box Goes Tiered - CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUWtESjI5SnI3SjZJb1VjVzk4S2xBSW9iRU9CRWxJNFlTR2Faa2Q3OTQyazFFRkN2OVRzZ3lCSUwzQTVZSjF2bEFjX3VucGtFNVplZEZLcWJwQ2kyNWgzT3ZtcUllVURvYnRlRjBxaEdUQnNkNmJ5a2xXQkQ4YTJqbnZqZzFJdEljTWZPY2tod3VVQlJrLVFoTnc5QkxndlpBUXdwWFRhSDJWRnRPeDFXb2JQWHRHWW45TEFjV0JFem5STmF6cE93LUlodFpONFk?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-20T09:11:17+00:00",
-      "score": 5
-    },
-    {
-      "title": "Errol Musk Aims To Raise $200 Million Through New Meme Coin \"Musk It\" - CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUF6MU1HS3VIRDMyWDZNS1dwazRydmMwaU1nc1RIRy0wZHBBRG5yZmtIZlBkelV5SUNpNm1NTktlWUZfaGRWZGd6a3QyZkI0OE14VUtMRjdUaW10UC11aHBibG1HLUk3M2VtV0tCWDJMaWQ4WmFmS3hBNDZ0WGZScFMyYW1NckFuZER2b3V6WXNzUEtzWlNBLXp2Z1VfRjlkN2piVFNDMXhVWTZaNWJyOUMtdEI?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-10-19T21:22:25+00:00",
-      "score": 4
-    },
-    {
-      "title": "Binance Alpha News: New Airdrop Model Launches as Platform Defies Market Rout - CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3BXeFZENURUUHdwQUNVMldzTWFSTk9uN0N3X3dTSDI3cWF0STl3SHhVNFZXeTNDNDlPQVh1eWU1ZVBuQkhpbnZBTTd2eGZBdU9yVWVtQ2RudXlkXzZmZm5XZ0ZhNWxpYmVsVktJbjhfc21sRW9oX3FnNXMwcWxOeG52U0h0WWh0T3BiY2NLT2NteWVtbHhYRkFkLWpmUVBGVk0wLTJFVG13eTFlTmFPQWs2WU1zNnJDY0E?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-19T05:13:53+00:00",
-      "score": 6
-    },
-    {
       "title": "Pump.fun Just Launched Futures on Hyperliquid. Better Buy: HYPE or Solana? - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX1dXaDQtV21uTTBfcDh5NlF5STRtVGw3MU1GZWdsWEVBLXRUZnFlVGRjSlFaSUFPcWFQc0pZalQzMHJMdEIwZTJOTFVaOHJSZDRKRXFnck1EYmRwOW9ZdFRiRUIxWkFIcnhkcGhVcjhhUnhnYzZDdkNrc0hOYkctQVprb0tWRjV6VGtTVFg3SGluOVVTX2dJQ1BIVFZ4eDdGU015WURydVNxbFNaQlVWbm8tX3AwOEhjUnNSOEZNV1hUQnRvRjNuTWFn?oc=5",
       "source": "Google News - Pump.fun",
@@ -336,46 +287,11 @@
       "score": 8
     },
     {
-      "title": "Binance Alpha News: KAT Goes Live, CYS Drops Again, and the Alpha Box Gets a New Format - CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVmlwcV94blhSdHFjWFpYdlpPX0ZIRTdCcVQwY3FqVlVTajhtVE5OTzFfdTJvOHE0VjU5bkdScEZuNmU5YWlhRXdrQW03WlF4YzlmX1EyMVhReVhSamJZMFBCTDJqVE8wc2xZcUdFSHdpQTRqT1dHR2EtOGgyTVAxZGEyakZRWTNnTk5WTG5OMGFMRENaeEh5eDBNbkp1SWpZN25jRlpqTHNKMGhQTXFpbTNVYXZiYTQ1RkFvVlk1NG1OemtF?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-16T06:57:07+00:00",
-      "score": 5
-    },
-    {
-      "title": "EchoTrade Launches Binance Alpha Listing Support for Token Projects - TechBullion",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWnRMYmw1Q3AtUk9UU1g5ZUtkZmkzTWtkM0xKMUNod1dwMFFhQ09wUHNfLVdXYklYME1CX0RScVBaSjhxa0hHQnY4MnBGOGdHOVVkVGozY0hJa0VKLUtBOE83YjhrU0JsT3hkOHJ4UzgxYWk0TC1qMGFjYTFjeFdGOHBSajlqeHhHTHpsRmp5VjRtbFJ2ZXF3?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-15T07:00:00+00:00",
-      "score": 8
-    },
-    {
-      "title": "The Grim Reaper Is Coming Earlier Than Ever for Memecoins - Bloomberg.com",
+      "title": "The Grim Reaper Is Coming Earlier Than Ever for Memecoins - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM1RWdEJVS0hid3VwVEV4OTlkTzB6VndzNllNb1hiLWt1OW1odHRUa1UydC1SR29UNkRFanRxd0tvTzl0OUFiTGwwZzRaOUJfelh3QzVwVkhYOGVLeFNQRl9mOXJxYVEtYm84QWxkUmxhajRzaHBtOHlyRmlJRkVieTZxNFNiQ240Qld6X25zbFFIbHFYSVpHNC1JZndGVHNtdnVrN2NQSGtCWmNNU0ZhSQ?oc=5",
       "source": "Google News - Pump.fun",
       "published": "2026-10-15T07:00:00+00:00",
       "score": 4
-    },
-    {
-      "title": "Binance Alpha Adds Derive With a 70-Token Airdrop - tokenpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGRnZJajJYSDRVbTRMVUh2NkdJaVVFaS14bjREZnlPNkcwTVpBcFRZNUdIbWRraFZaY2Q0bklVd3BEYTZfVFNKbWZIYjhRVFZEZWZpdV9TOVI?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-14T10:04:34+00:00",
-      "score": 5
-    },
-    {
-      "title": "Binance Alpha Opens DRV Airdrop to Users With 245 Points - tokenpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xWUhTZDdfMFdacE44bDF4OXRFaHVEcXVxS3puN0xNalhPLUV6dnNlcU5ZZGx5X19VV2NvNGVQWGEzc2JZaHZTVUhCaTN3ckdrd3VtQU8yYjc?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-14T07:00:00+00:00",
-      "score": 5
-    },
-    {
-      "title": "Binance Alpha News: Gains, Airdrops, and a Mass Delisting - CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXZsRXdLNHE1LUd4VmVmbG00RndHZUNkcjJCMzJWUkJDTWZla09yLVVmU3NoT3NJYkM3SktLaHd6b2tpM2htRy1MeHFsZ0hYcWR6RGRKY2tWRjI4eWR5Y04zZGhLVmViVlQ4WkZCSk40bm5STVBBQm03dTRQcEdFY21MUTdhaTJwX0Q4VS1Xbk1uRFExdjhNUXd4enc?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-13T10:33:48+00:00",
-      "score": 7
     },
     {
       "title": "Elon Musk Grok AI Predicts GTA 6 Leaker’s Meme Coin CYBERLEEK to Hit $2 - 99Bitcoins",
@@ -385,32 +301,11 @@
       "score": 7
     },
     {
-      "title": "Binance Alpha to Delist 14 Tokens Including SUP, CUDIS; Withdrawals and Sales to Continue - bloomingbit",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZVV91Y2xIVEpUZ2lqZ1JGN1VFUndpZERWZXI0STNSVUZCUjJVdkU2cHlXZlQ1ZU96U3l5UUE0ZW9ySDM1X1otRnF0WkZvUnFheklQZQ?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-09T08:27:56+00:00",
-      "score": 5
-    },
-    {
-      "title": "Binance Alpha to remove several tokens - FX News Group",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSUJIT3hDU0dFOHJhcEgtc2RsRFlVMXNfNDZMazFnX21hSUVQZTh1YmxSRktXQkRNNWJiLUNINlIteUFtemZCZDdISHltcXYwdXZHVzEwaExPOU1qc2l4OTVFblVlRXRHekdfQ01qQXRldF9iTXVhR3dUWnN5TUFZR1NTTVZEay1XTzg4R0d4RTdhUjA?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-09T07:00:00+00:00",
-      "score": 5
-    },
-    {
-      "title": "Binance to Delist 14 Tokens from Binance Alpha at 5 p.m. on Oct. 9 - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zdUJheTdaTm5KaGxPckk5OVRxdlRhY3pkcHpsRU9qTFQySE5QYkNIRTk3WHNrbnhRR25KcFNLRUJVLVNfRHd3aVp5M3VQemZZelhlSS1TNmpVWW45RUVuUVduY3MxQjVtMzQzb3pGM0FkaHd0eUE?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-09T07:00:00+00:00",
-      "score": 5
-    },
-    {
-      "title": "Binance Alpha Will Remove 14 Tokens, Including SUP and CUDIS - tokenpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqaUhxc1daSDg3WTFDcV9DZTBkRDNkVUdoYWM0R1UxaWFXVXJBLURmYnBYV3ZrOXBOb1dsOWRSemVDX2lETUVxMnpVaUc4S01UZ1l6dV96UzM?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-10-09T07:00:00+00:00",
-      "score": 5
+      "title": "GROK Memecoin Inspired by Elon Musk’s AI Chatbot Experiences Explosive Rally - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUWJXWFVRcENmMnV5UFhDcm4xZ21CcnVLbEJZZGp1a3FhSDIwMVU2Z09KQUduRDlOTzJTR0h6eHQ5bGNiZGNPVTYxNFVnWkxlajlFS1JFeUFPdFNPZDRieTFjdmI1ekI5bkZQdzFXaFB0aF9TNG1KRjc1cVBNSGl4X25fRm1fbkh3QjdHMjA0RlhXeUtYUkZOeVFMdTNKNUZZeVMwWnA0dUFhOTlJYXltRFJLT0gycE5a?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2026-10-12T05:12:27+00:00",
+      "score": 7
     },
     {
       "title": "A $443 million memecoin frenzy dissolves into nothing—Robinhood and Circle are latest to taste the memecoin boom-and-bust cycle - Fortune",
@@ -448,22 +343,8 @@
       "score": 7
     },
     {
-      "title": "Hunter Biden Tags Elon Musk, Asks Billionaire to Boost His Hammered LAPTOP Memecoin Before ‘AI Ends Us All by 2030’ - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2R3cUJZeEVxTWwyYTJ3VjVmYjRkMU5wLV96aFNwRHB1Z3F3LVlNOXAwZ2F5UmRpZGNUVkhma3VSVmJrQzZwcTd5Y21pUFlUaUdZVDJyWmpPUTh4VEFxZ3JnMUVSTjlVX1pIV1YtMVQ3VlNzMnR0X1NFaXZMUm9qOHpvbW41Ym9lbjlaRDd4X0NROF9HTVhj?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-09-15T07:00:00+00:00",
-      "score": 7
-    },
-    {
-      "title": "Hunter Biden Tags Elon Musk, Asks Billionaire to Boost His Hammered LAPTOP Memecoin Before ‘AI Ends Us Al - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDFmdDJoZmtNMWd4emVkWVpxLTRQcmhUTTFJUjlYQWg4cXZYWXJFOTFGSkpYbEtIcFNsel9ZSFhIaVZTMnhDdG8ybGhMbFNqU3gyM0RqYlhjanl2eTRiU2tRc1F3bmFDdHJscndKTU53d0RIdzg1ZU1STExKX3M1a2p6WlpNMzF2Zk1NRHA3MnpMYXVBQWlmSVpMWVBqTk1yUDF1ZmJuWUc0Q05xUWk3QkJIajNIYldEUFVuTQ?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-09-14T07:00:00+00:00",
-      "score": 7
-    },
-    {
-      "title": "Hunter Biden has a bold 2030 request for Elon Musk - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbW53bnJGNmZsWEpqYU1CUjhhcDM1SzFaQXFhTU16Zk5FNHlDRFExcV8yWHJ3M2tPa2U1U25ZZUlvZXdlS2ZpRnk3RjhBbWk5MVVBRlZVQWRheC14UUdMY19YeFFwM2JNNWpLT2J0dUJwa2ZWMS15UVBhNnBfMzh2V29oQ3RYRlpZNHN6Q1hhTGRMdlhOWkE?oc=5",
+      "title": "Hunter Biden has a bold 2030 request for Elon Musk - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTd2bmxodE9OaGN1QXh0cDhxazRFLXZxdkdiSTVaaFBFNncyRDhuNTdBRldBRHpNY3g4RkViWkFDVU1JVE1WZXB5bDlYdVJnZlVMcWlvd0lGbTREV3JYSmZEVFZNMDZaTjhtd2JzU0Ruc2ZRYzA1cTA2eTRiclA3aVM1WlVKVVlfczZPT01vOFdENUQzd0FwZHhyQQ?oc=5",
       "source": "Google News - Celebrity memes",
       "published": "2026-09-14T07:00:00+00:00",
       "score": 3
@@ -483,13 +364,6 @@
       "score": 4
     },
     {
-      "title": "Binance Alpha 2.0 Adds Robinhood Chain Support, Lists CASHCAT, UP, AI and PONS - bloomingbit",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmREJQMnFmVTk0YUtrMktrUGJIVHhmbEJnazdfU255Q3QtYW5RMkhXdkxDRndvNzRmcVJ2MWtUVy1FU1JqRWltT01fTC1NMFFvTEs4Qw?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-09-08T07:00:00+00:00",
-      "score": 6
-    },
-    {
       "title": "Hunter Biden Launching $LAPTOP Memecoin Amid Praise For Crypto - Forbes",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLTE1Vk9HLTlrLS10MV9DRzREN2oya1RCU0YwNWZGYUNCWFpQR3hnNjVPd2FVcHRicU42OUwyYllDbERJTHVJeXpRQ292cVlmdFo0LTFWUmRFQnJCa3U5Wmd1VUU1NXBGMlBYenNFSE80Tmg4U29SQ0RJazdVWmc5cmJUMjZ6MWNUbDl2V1EwSXBLZTNNRzh0Sk84V2V3aXpKdGt4MnRLX1BDZGQtdTNYVzk5R3dPZw?oc=5",
       "source": "Google News - Pump.fun",
@@ -502,34 +376,6 @@
       "source": "Google News - Celebrity memes",
       "published": "2026-09-05T07:00:00+00:00",
       "score": 7
-    },
-    {
-      "title": "Musk's partner Zilis' hacked X account boosts meme coin to $80 mn, then crashes 97% | An investor's $2,50,000 turned zero within hours | Inshorts - Inshorts",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNjBEQUl2LVJsdTlPTm1UYmZPN1pqc3poNkVMeHhMaEZ2RFQ1RjZqTGxyTExMMFBkQ0RobFpHOFZaNnBLTFJiVnJ4YUxhX2ZZUWN2dkFxSDBqeTBCQkRlTFNBNld2RnBFZ3Rqcm1pSEM2OVMwcGtjamJJOGVPR3Bnb0swQWJRcUdkVWltcmtIQUVJb21jcndxS19JbVUwVVRuc2dyYWIyXzZjRTV6TEg1aDRhZlAteGFrM3BtR2FyRWZIWTQ50gHKAUFVX3lxTFBZTGZyOWRmRWZmRTdkM3RsLXBGbFYwbE8wYVViR0taRjhyU0oxa0FrelBwUWlKaERGYllyVXJQeXJLWU9kY1lwd3VTTjVOaWJTZlpQUndJUWhVdVZranNESk1wVUJ2eEdpVVRNek1lZkJKdWdJVmYwWGswNWh6RERvQ1VVOW9NemtKa1NpcE0yMnJaZi00aU9JZ0NsZExOenlmNVcyS2lfT1ZjT0pvdFJFN1dGdDB4NkNNZFpsQWdDNkV3VEZjdXN5RGc?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-09-05T06:18:14+00:00",
-      "score": 4
-    },
-    {
-      "title": "PONS Surges 5.61% on Binance Alpha Listing and Strong Fundamentals - CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jOVBwQWdxZmNURDNTdkFOYjRJNk1fanBoNENfS3J1VjlwV1VuVWlBQWt0Q1c4TjlLYUlEaGhUVWxFbHB6emtMV21Cb2ZaRGVESFhER2lxeE81emoxUkwtOFB5TlkwZ2ZNUE5ZTF9GQXQ?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-09-03T07:00:00+00:00",
-      "score": 7
-    },
-    {
-      "title": "PONS lands on Binance Alpha – Can its 80% buybacks absorb whale selling? - AMBCrypto",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHJSOUFjb0ltZ1Y2MWo2NUpyS1pYZU5YXzI1bWtFcVV3VHFLOENHcDZtNWJjajFJVVVEZE5YdnJZbzY1NHhSZGU0MHZ3eDRHdmFQRGtQSEdmck1MbDNFTnQ4VEVyUU9yeVhmbjZSMVFTMnllSmtaTGR0dnh6Z0lBb19NalNfRjFoeDhZR3B0QXNnZl9iQUE?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-09-03T07:00:00+00:00",
-      "score": 5
-    },
-    {
-      "title": "Binance Alpha Debut Lifts PONS to a Fresh All-Time High - BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYSVlscTUySTFHdnhLMTE5bVFvS2NLTDZyTjQ3S0ZxMFUwNlcyOU1oSENCOWp1ZnlGYmdnX1FiZEZrWW91aU11QVhNanFJWllCOUZBNFNXOXM2WEM3a3JucEhzeFo?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-09-03T07:00:00+00:00",
-      "score": 5
     },
     {
       "title": "Binance Alpha Debut Lifts PONS to a Fresh All-Time High - Yahoo Finance",
@@ -546,32 +392,11 @@
       "score": 9
     },
     {
-      "title": "MarsCoin Jumps as Much as 500% After Binance Alpha Listing News - bloomingbit",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYRGphbVVxVENDbGJYblZyVEl3OHpsWWRxaHlrZDVWV3dFSEo3NDNRSkJZbGpTQzZRR3BXZ0dzSURCVHNJeUpGdFZUNmU0d0N6bVRrcw?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-07-30T07:00:00+00:00",
-      "score": 7
-    },
-    {
-      "title": "Dogecoin slides after Elon Musk says he got carried away - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZE5rNnZMWmo3T1JIdTdYNUxrTzlxSGZGRVNQVUZKc0diTmo3RzR0WV9jbHNVWXZWV1pGaDI4VHFPM0lYMXFtT01tN1ZBcGNDZVVFWWd6ZGM0Z2tvdkx1T1lqOW1vUGpoUUtHd3B3eEpWcXdLSnBsdWlsOWphdFBTMnJfMVZ4X0w0Nml0TWZzM0IzMzY4RVNYUlh4dGIyUQ?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-07-24T07:00:00+00:00",
-      "score": 4
-    },
-    {
       "title": "Hackers Breach Elon Musk’s Company Accounts to Promote SCATMAN Meme Coin - Bitcoin Foundation",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYklmZURReDhmOGhlb2p5N2FlVDNNTGhRX00yYkQzU09aZHo1Y3phbXkzc1NZTno1NmE2MUdiRG84TlAyYkNOMmowYjJzUTZkM0E3bVFISlFwN0hfcUFMUlk0Um9oemt6emtFN1BGYzFidHJtTGdwVjBRVFd5WlEyYlFR?oc=5",
       "source": "Google News - Celebrity memes",
       "published": "2026-07-13T07:00:00+00:00",
       "score": 8
-    },
-    {
-      "title": "SpaceX and Starlink X Accounts Hijacked in Memecoin Scam; Hacker Walks Away With $135,000 - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ta2NtaHgwTVRSVVFPdGFudkxyVURNbkV1emk2UnhZVTJGb09FdmJXenJ3Z25ocG81T3BtWlRyLWxYZEgzSFk4dy1mOVRGZ1lUemFqWHpMdzRzV2pmQTRReVRNTk1QSUs0S0xjNkVlcWFIRk12ZUE?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-07-12T07:00:00+00:00",
-      "score": 4
     },
     {
       "title": "Binance Alpha Token TAC Wipes Out 90% in Sudden Collapse - Yahoo Finance",
@@ -581,39 +406,11 @@
       "score": 5
     },
     {
-      "title": "Elon Musk’s Ill-Fated DOGE Endeavor Officially Over - NewsOne",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tQk9GWnc0V28ySXd2MmtUb0R4UDdhc3R5Y1VpLVh5aW4zM0pTY3JsbEl6clZ3OFNzOU1ZRUd0Q2tMeDhjYk9yaXFmR3VkYTF2ZFN6UHNMQWx2VV9vWXlVVENpOVlfWlhtMUs4b2ZMNzIzcDBWS0Zr?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-07-07T07:00:00+00:00",
-      "score": 4
-    },
-    {
       "title": "How Trump made more than $1B on crypto when most of his coin's investors lost money - ABC7 New York",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmNRamtUY2NCSExkU0NTTU0ybHlURUlZb051OUFGRXp1dmEwWnl5ZU80UEhSQTBmODJKOGE3NXhya196aHl3TF90aGY1Wk1XYjgyY0F3LWJ0ZjlPbHdneG52cnNZMDZpMUhQYmd6bWxUU1RJNVNrcDhOcWVQcFBfTnlQX0luYTR0Z2J4SmZTTTFEZFFrenhIeFVfZGpFT0QzUXhkbm0zdlN4RVVO?oc=5",
       "source": "Google News - Pump.fun",
       "published": "2026-07-06T07:00:00+00:00",
       "score": 3
-    },
-    {
-      "title": "A Solana memecoin called 'Elon Musk's DOGE' soared 10,000%. It isn't Dogecoin, and it isn't Musk's - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWxMVDUwN2o5LWZ5M2NkeFNmT2h3eS1xWDRwcTNHQmlEWFl5Y2VWVlJXalVLLVV4U2tfWHlhbmJOZVh0NERkczNrVDYxWjJndmQ4blgzZEpoTEZOSUs5Sy1SdkRCRjB6Zlp6VDZ0MnlxcWx5YUY0UFZVb0UzVTNTMVZkTW85eGtIdm1TR3FMRGFrcFIxODJXTg?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-07-01T07:00:00+00:00",
-      "score": 10
-    },
-    {
-      "title": "Elon Musk brings back his McDonald's Happy Meal offer - TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZEZKMFVRZERCaW9uZjVacDBia0ZrLXdZcm5DMmxoZGZEbUpqSThsWTV2dU1Fc1JlTjBLc1lKZ0NtV2d5TTE0QXhVcjZJbDZKdC1VdE5NcjdPNmY1MGtJRWdqanVIS1JXWnI2Y2Y0eXdGSnJpdVMzMlpsUkNxZFg1SjBIaEduQ3hONnpGcF9BejJrLTQxSDFfaQ?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-06-01T07:00:00+00:00",
-      "score": 3
-    },
-    {
-      "title": "Dogecoin has 'crazy things on the horizon' as ecosystem grows beyond Elon Musk, says DogeOS founder - The Block",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ2wzUzlwejlVRjNwVXp5WXBQV0JST29BUUJ6bmFIdFl3OXhuX2t0SU5ud1U3SS1rY3YxRjR2WV92ekVWZXl4VncxOWtBSDhkdV8tRFNnQUpmRmxzUjhTRUFXNlNfVXZTZk5lVmJtZkhPLWNlY3dwb3pqd2dNRmVHZGozWHNOWE5fMERmSW8wRTNPNWdfalV5VWY5M3lGRnJRTGFKN29FVjN5RFlVb1ZxQzFQZnNrUlh6SlM5NHRRVGk0ZU94QUhUYXlOSnA5cU9FXzU2dkxrVG5CYVdkVlVTYTNXN2xBUFpKY2c?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-05-15T07:00:00+00:00",
-      "score": 4
     },
     {
       "title": "Binance Alpha News: OpenGradient's $636M Volume Mystery, BUILDon at +201%, and Alpha Box Goes Tiered - Yahoo Finance",
@@ -623,46 +420,18 @@
       "score": 5
     },
     {
-      "title": "Trader Loses $150,000 on Scam Altman Token After Elon Musk’s Tweet - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNGhOTGlVVTFWUE9KLUJQWHVrNkM3VlJQdDg3am1HVEFLTm1NYXBGcVpQS3Eyd3lGVWV6M1I4OXRWcEtnd3hJUjh2UFNiWDhBcnhya18xUW5lZkk2elhRUEFRUzc5Y0pReHVEbGlQVGtIOGlzNVRwWmNkU2k1SlV6b1NyazdKSkpxbk5TU3FLSnpleXFo?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-04-29T07:00:00+00:00",
-      "score": 3
-    },
-    {
-      "title": "Crypto Trader Turns $2,500 Into $500K on Skyrocketing Ethereum Meme Coin - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSksyMW5KOEZJYXJhTXZyWmpNbEE1UkFkalpOZkktWUxoeFY4RGJLYURNQkdUUnhlaW5LZ1c1eXRmbnB1NTBjVkdqZXY5NkFKeU1BTTdmVWlSRzlVTzRFekhkOWp2QXdycEtzTnpIRlBWV2JDUWpGVjRjSFRvNWp2VUluelRjWWM0ZnR0OURtNVptOGI0?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-04-17T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "title": "Crypto Trader Turns $2,500 Into $500K on Skyrocketing Ethereum Meme Coin - Decrypt",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeHB3WkhEUWw3YkVIWFc1cTlWYmNlWk9IN0hiVEVQZlpWUGc2d0J5OFJPTVdxUVI3d1MwWVNXOEp0N2NRZUpLQk0zZnlpLVlNdDFPUWp4NGxPVm56SkNWSFhwYnFCNThud1E0alA2Ty1EcFozdUFmd0xFUndBNTJBRmt1N3NMMFZLQXQwWVVFRGxrWVhyUmFR?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-04-17T07:00:00+00:00",
-      "score": 4
-    },
-    {
-      "title": "Why Is Asteroid Shiba Surging? Elon Musk Reply Sparks 400x Rally - Binance",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kTXlMXzJnZEdmc0txcGp3OGxOc1Q3NENBV2FfZHU0WmE4dmplZkRUY1hmS3p6dzJwSmJSaXJ0Uk16Yng4c3FkTTB1N2J4OHZ0cmZSakYtLVN1WWlDT0l6bE9yTG4?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-04-17T07:00:00+00:00",
-      "score": 3
-    },
-    {
-      "title": "Binance Alpha News: Fear Holds at 28 as Four Airdrops Land and OKZOO Runs 152% - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmc3T08tMFZRV0hOODdiOE45T2hoMWc1eTZmWDlrdlduaTZuUzdITzhtb2VWWXkxZ2k2WUplOHRtM1Vkc3otVUpNS2wyLU94YWNRUzZsTUZwU2FZVW1tOXRwX0lMV3E2MGVleV9xdUZTQU9qN1drbGd5SmVYc1k1OGpPN0FFVjNrUllETGhKTFd5RkVSM3ptaHpB?oc=5",
+      "title": "Introducing Enhanced Binance Alpha 2.0 Limit Order Liquidity Providers Program - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGJkdldmbV9DQU9JWXJLend5eHhtbUlkT1BOR0dsQzNlUTluWHpSekc4c2s4OHRWLS1kQUdQUkcwWmx6b3Y5VFlscnM3T1pucEttRERTbDRBNFBfSXFsNS1wNXRWRkJLZlVlWnJacVUydmxLc29YMWZpWE5ka01vSjJiNlJMRldSU3oyb2ViSWg?oc=5",
       "source": "Google News - Binance",
-      "published": "2026-04-03T07:00:00+00:00",
+      "published": "2026-04-20T07:00:00+00:00",
       "score": 5
     },
     {
-      "title": "Q2 2026 Memecoin Guide: 10 Picks for the Supercycle - KuCoin",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPenJIV21nV0p5Z1owakdYd0h2cENZb3Bjam5pdEE1NnFmVUF3YzFWTjhFN3RhY1R0TG9aOFNzLUFORE1BUkxfVXR4NnA0MzVfdTlvZzJSbDN2d3JmU3VVN1VrUU42X2Q2V2JJ?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-04-01T07:00:00+00:00",
-      "score": 4
+      "title": "Binance Alpha News: RaveDAO Runs 375%, Unitas Prints 30x, and the Mystery Box Goes Tiered - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdktXVTh0LXRaRXFHQ3dEUnBUaEJ4VWFmMU5jQjN6Q1g0SU5ZOEtZVjVYV2QtLUU2MlJvNUJhYVpNSXhmdi1mc1FOc09kNWlkZkt3VXdLWVlwUkgwR2R6SWpBNlVJQzc4eUpHdVdRUkZaNkxFREZ5d3FQNmtmLTBhQU1NbFVYNUl1b1k3eXhwSXE5aHN5QjFwOWtwa2g?oc=5",
+      "source": "Google News - Binance",
+      "published": "2026-04-10T07:00:00+00:00",
+      "score": 5
     },
     {
       "title": "Binance Alpha News: Risk-Off Selloff, Three Airdrops, and Alpha Box Gets Its First Run - Yahoo Finance",
@@ -672,25 +441,11 @@
       "score": 5
     },
     {
-      "title": "Analyst Says Dogecoin At $2 Is ‘Inevitable’ As Elon Musk Revives ‘Dogefather’ Meme - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVmY3d2NiekRoWjN5M09vT1NBYUh1Q201enFwdjFQbkhJLVNhOEdadkhDdk5nMUFSZUQ3WlJOalFHUHVZTUg2azFCOVFrRFVyeE1VQ294OWZfRmprd1gtbC1jTUVyR3M1Mk5JMkFieDZzQ0ROMlI1R3dqRkc5VzQ1Y0hxOElEbmtiUTduRjJncjVPdjBFVUpncVVSTTZfSEZSWlJhR1hELUFTRFZRbzA3OHktdzZaeXJDQkkxV2hUUlgyX3VXZmVoMVZPaEVpME5D?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-03-20T07:00:00+00:00",
-      "score": 4
-    },
-    {
       "title": "Elon Musk's 'DOGEfather' meme fails to lift memecoin - TheStreet",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFMtaml3ZzhZRFlNcXhQazBzRHc5ZVVSb1VkSUc5ZDAzckVmcTJwZGt6YVlOVGY5eU5ZUlJHR0s3WFk4SWEtV215U21EdnpDZ2Y5ZzRhUDlyT1V5SXQ4RkNDektCVW5ZcWxLWGc5UGI5cEpGUWZ3cDZWRlBuYXFRLWZNUzZSTmRqckV3bmJrZS00aGc?oc=5",
       "source": "Google News - Celebrity memes",
       "published": "2026-03-19T07:00:00+00:00",
       "score": 8
-    },
-    {
-      "title": "Dogecoin Down 90% From Peak As Elon Musk Confirms SpaceX Moon Mission but Social Media Buzz Says ... - Binance",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OVE16QkhUWWpsRnQ4d0JYR3BSbzdob3JBdlNSVWF0UU5IY2FxdmQ0S2dGM0hvZ0dmUmtNVUFNckxGekVPSTJtYVRiOVllOTVBZExRMUlJQnd4YWJjZXR3ay1FVTQ?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-02-24T08:00:00+00:00",
-      "score": 4
     },
     {
       "title": "House Democrats take aim at $TRUMP crypto meme coin - ABC News - Breaking News, Latest News and Videos",
@@ -700,53 +455,25 @@
       "score": 7
     },
     {
-      "title": "How I Accidentally Turned An I24NEWS Host Into A Meme Coin - i24NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFNPWnY4VFpjNy1GekEzODY1VmxKQU5zZ0JfdnVrNTBrZEpycmtYVm5jVVA3WjREeUlyVWduN1h2YW9BajBrVy0zVG5FeGd6TFZnLU1jaHYtZzRFMzFkbHpMak96UnRRUXB0V0VGWm5nZmZLMDQzZXBkUldjTGtjZnMyRFVsdGZxUks1V2F4OTRBRUkxZmNPdlJ1UHF0RTcwSUh2aXBnYnQzMWc?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-01-13T08:00:00+00:00",
-      "score": 4
-    },
-    {
-      "title": "The Elon Musk Effect: Trader Turns $466 Into $180K as PsyopAnime Explodes - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZUs1TE9TRTJMNFp0SThmc09kMkNBSVk0VWduQ3lmc29tMVZnc25iU2E1TG9BZWJqUmhWWUg5MUdFaGZwdEFEcGV4VjZ1SnMzRU1sV2dSTHJGcE1lQ3c2LUxQT0xRYVU1MmVkdm5HV1MzX2JIR1MyVHZTd1RSdVVKWTVhTDhEbm1faHA0WXBESU5HRDFCZXFGWUFyaEROcm5DY0JPWVVTU3NibEhrdDhpSl9kV04xLXlFMDlJcW43RWNCWExMM1RWYk1B?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-01-13T08:00:00+00:00",
-      "score": 3
-    },
-    {
-      "title": "Memecoins Kick off 2026 With a Breakout: PEPE, Dogecoin (DOGE), Shiba Inu (SHIB) Surge - CCN.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjl3QTM1VVByeVZiZzROVUxFdmpuNUhjSTJqcEJjV0pubmNzWnBrNWtaOXNodUdScVpKcVoyOWl1dXhSS1c1dGVvOVQxZHpzQWhSaEhyWEx2TlJxenF5SXd0NWlDcWZSQTB3YnBxcVVJT0dFMWFxQk5pNzVqM2JPaWRpZkI1aElESEFic3Zaa19Qbmd0aVpsVXlYRHFGb1BzOVM5aGRR?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-01-02T08:00:00+00:00",
+      "title": "What Is Binance Alpha and How to Use It - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94YzdKWGhta1FZbWxLZXVrS0lSN2lVQjVEZjZsOVdmUFRGMWJoWFNEbi1QN0l2T0ZZQWJ0bnpCSkRYRTA1X2R6QlhmSmhtaVZ5WDJ6WjRjTGdiakxzM255Vi1qMA?oc=5",
+      "source": "Google News - Binance",
+      "published": "2026-01-17T08:00:00+00:00",
       "score": 5
     },
     {
-      "title": "Binance Alpha 2025 Recap: Token Launches, Crypto Airdrops, Brand New Playbook - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkdLUHlSV3FtZ0lHUDNHN0pEUkZIcDNheFFqeXA0SlY4UWlOYUxWeURNR29oUW5hT1doWmhyTkxXb19rX1BIRXVEckF2RUwwWlNRUHMzbmNKY0NKRHJCSWZQWHB6VXlNVVFVNi1IbXFjZXNjRFU4M3lWVjZ3N3BBMVBpNUxyNzgyY3YzRnQ5OWJCYS0xV1lzdnZzaw?oc=5",
+      "title": "The Ultimate Guide to Binance Alpha Points & Projects in 2026 - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXBZaVlIWTQ3TXhXLUlibU1NY1AtUFNmU0twaHg2c1Jab0JSVnF0d0N2V2tGNU4zb1JYNlljbk4zSEI3d3ZIdWpBc0tTTy16MU0zWlp5OE9VRTQ5OURNNDlyZjdoSk5ZMmpTejJfZVJlc3NtWjJ4MHMzcU8wTkNNYi10bEZVR25QNDN4dE85V0I?oc=5",
       "source": "Google News - Binance",
-      "published": "2025-12-26T08:00:00+00:00",
-      "score": 6
+      "published": "2026-01-02T20:29:00+00:00",
+      "score": 5
     },
     {
-      "title": "Elon Musk, Trump, and No Pump: Why Did Dogecoin (DOGE) Not Deliver in 2025? - CCN.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVFWRDhUeVN5dTJDTXdnVEF1NkhTQjZvMDdPT2RIYjhVbkRZWnBkR21lblBBaWpmMG9SZEQ5MzRHU0xWeEIzMmxaN2pET05hcVNQbHN0V3FzeGptMnpOZVZndE54bVBfQUFGT21ic2RKZzRaSFY5ZFBBbDNmQXdMYTdzelhvSEN1dTZzUlhVa3lWUEY1RWt0ZUlROGNzZw?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2025-12-24T08:00:00+00:00",
+      "title": "Binance Alpha News: Extreme Fear Grips Market as New Listings Queue Up - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQnNpTk1oa2l0SzdSOHVsVm1fY1B6Z2xlWHVWUGhWWUVZWWVma2RQdlJjVDNxaFJyOFl6UXdEajJrbjZXSjZfNk5rckdMdzkzMnNRTG1BWVZyM1cwR3dlMFkzbzQyZ3BNbU03cWNSSU5qTWhGcEpVejZkSGoyLTRUNms1V08xSWU0V0g0N3NOWVRZM0czY1I3cmk0MTdaTjd5SGhPZkVZWEdWSXBBREV1SQ?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-11-21T17:53:04+00:00",
       "score": 7
-    },
-    {
-      "title": "Official Trump Crypto Game Revealed With $1 Million in Solana Meme Coin Rewards - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3RDUnljYmJ2UWZxaU90Q2pPRTN2eWl0TXFRMHJuOVk1aV9oZElTM29WM2dTUkRqdzFMcEwwV0RuMkF6cFc2NnJScjJ6MXdzQU9lNm0weGo5S1RtS0hhYmV2MUE1THp2X01DbnlGajBzY3BoY1I3ekVtbTBMZ2FzZW5ueTRidHdR?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2025-12-10T08:00:00+00:00",
-      "score": 9
-    },
-    {
-      "title": "Elon Musk's DOGE No Longer Exists - Hypebeast",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlpNZGZOdEdLb3N4eWRudENpZnF3N1drQmhjZzZEdTVkU0VhQTQ1UHhZcFlVOEtEbmdXRlNMb3JNMmNaa1ZvUGNXazd6TTNqYi1jS3V5ZkV1NUVaQUhRbzVVeFZyUnNJNHFfWkJ5SU1EbGlSQU56bldVUjZudzNqUnZjTlRSb2VOdUx1TDBDN2M1Zzg?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2025-11-24T08:00:00+00:00",
-      "score": 4
     },
     {
       "title": "Elon Musk's $1 trillion pay package sparks memecoin frenzy amid struggling economy: 'Pretty wild, sci-fi sort of scenarios' - Yahoo Finance",
@@ -756,11 +483,81 @@
       "score": 7
     },
     {
-      "title": "Trump and Musk feud boosts memecoin trading - Digital Watch Observatory",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zNDNJX3BpMXhXR1c4SVh3bG9RSXlkRGlKdTZYbG9zRWl1SWl4T1lROVVmTFZwS294VjM5by1WVVdvZEpxU2tqYjBlcXM4UTlKWEVfbnF3YWVGaVIxampvcm0xTW5HRm5uWjA1LUpqbnFLdTVadVJISQ?oc=5",
+      "title": "Deposit Alpha Tokens to Binance Alpha 2.0, Share the Alpha Token Reward Pool! (2025-11-20) - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmRHWDhWektDbnVDMXlnWGp4b3M0bC1QazFCUXlYeXBYaXBJbnZ3QUV0ODVFUzZDT0dQNzFDa3pUaFdCaEV6bjZtbl9Cb013YWdNZndGZlNyb3pKTFVTZE51OXhOdlRtMEtGLWNNZVhRN0NpQ0dMa3ZJWlZoTkRQU25FZmNSUWpVR09yTVRydzk?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-11-20T08:00:00+00:00",
+      "score": 5
+    },
+    {
+      "title": "Not Just Dogecoin: Elon Musk Pumps Floki Meme Coin Price With AI Shiba Inu Video - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIOEhtQjQwcmEtazdIdWN3NWlBOEszX3lzaVg1Rlk2ZEhfTmhTV0ZkWVF5LUN3a3VzMTA5RDBUbVdJVGtnS3NsbWs5d3ZOX3RadWo5bXlna2t2REtySGY2dElhQkRHMmVCVndCb1ZfeTRhN05QZEV6ZGRJcExBdw?oc=5",
       "source": "Google News - Celebrity memes",
-      "published": "2025-06-09T07:00:00+00:00",
+      "published": "2025-10-20T07:00:00+00:00",
+      "score": 8
+    },
+    {
+      "title": "Elon Musk posts his pet dog Floki on X; memecoin pumps 29% - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcldYQWc0MkRYcEtnOE4tMVRIaDkyWnRPNEdyV3Y1MlI4ajI2UzAxMXJkOEhNVU1mOHhXdERnMl9wNFNJWGJrQVM3UjhBdXlsQ1RMblVEQVZpSWpkSFlDXzR6QXQwc0JsMUc3cnVJa3RvOVptLWp3Sl9GN2dCdkhjNjlDLVBHVjFwNUdDeV9tcURrS05WTXNqeC1fTzQzTkFlelYzbEdtOFFWdHBoOXdiWmNtblJ6SEVlU0VLaQ?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-10-20T07:00:00+00:00",
+      "score": 8
+    },
+    {
+      "title": "Frequently Asked Questions on Transferring Funds From Binance Wallet to Binance Alpha Account - Binance",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUkzV093alU2LUp0dk1NaGpmU0tQOVlzeFc3REpWOHhZVTEzbkt2d3JxSkU4ZzUwSy1EYzVldEdwS04ybXhFWmhwbV9WQ2I1RUY3Z21JaTIxSUozOUw5S0FCVFBKTkVjUzcwSEZHNzlQd2kwYVJCLXVNa0d0SDc5bXVUTDA?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-09-22T07:00:00+00:00",
+      "score": 5
+    },
+    {
+      "title": "The Aleo Network Foundation Joins Binance Alpha, Expanding Early Access to Privacy-First Blockchain - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQXNSY3g4RVRjOGxxeUlnemZFamQzeEJNVGdqMk1NVlVEcDNQYTVxMHZXeWswazQ3ZTd6NTFaTmJJLXdQV1NNTkxFZTZHRU9rdm5TRG1QLW9qX1ZZY3hHb0NUYmprNm43VFd2ams3czduNE9yVWRHOGJnOTJjRXhtbTUzclpmZndxV2RBNkhZeGMxNFhWVTY4SGtOckZJQ3EzQVZVTEZJalhhT1JSUWI5UmJmNzFoRmxRRXV6NEhmbm9FZ0YxMjlOMlp2STZfTWtVRV9BWVZUUTRXdm9xaV9ZSHhjM09SWHFiWHpJ?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-09-15T07:00:00+00:00",
+      "score": 5
+    },
+    {
+      "title": "Binance Alpha Points Rules Adjustment Announcement - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWh2MHhEbDFWNFRPZEsweVVpWTczajVWZFNSQWRfalNSWG81cS1BSDFUV0RSSjc2aWpTekRSaEg3VFJhVTl3dGZ4dm9mQ2FsNzFVT3hXQkp3cXVQTHBYYmNwTzVkbDQxUUdZcTZrXzI1TUJKZm1pNmNUVVBWcVNXaWg2MEowdm9CR0U1QjNLRlY?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-09-03T07:00:00+00:00",
+      "score": 5
+    },
+    {
+      "title": "How Elon Musk Caused This Squirrel Memecoin To Spike With An Epstein Rant - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUU4Q3hTMGZjZVFYOXIwUTc3VmRWMDlJOE1Ib3N6WTJfdnQ0cnVaVXcyYUwyMHExdmY2NHYyeHZqd2NiYW9XdmEyd2ltSW9MNVhhRzVaZUR3U2V1T3hNUlVFZUlCUEVIYkhRRTNibHdVaHRmZG1KaVFHUVduTV8xOHBEWUxEUUk?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-07-20T07:00:00+00:00",
       "score": 7
+    },
+    {
+      "title": "Binance Alpha and Four.Meme Launch Bonding Curve Model: A New Revolution of Speed and Strategy in TGE - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZRmNUWGJIYVF2MlFFWnhYUkF4TEZWOGRCSzJZRUNsZzRtMy11UzFwOWQ4RVlDVEdFX0sweUFjcXJWSTgtM01sa1A1WEtNa2xzOHMtX2ROX3FNbGhpOHhfZG5qNA?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-07-14T07:00:00+00:00",
+      "score": 11
+    },
+    {
+      "title": "‘I have never seen such open corruption’: Trump’s crypto deals and loosening of rules shock observers - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZzM3V1M0X1VrNk9jVWhJVzdqLTVTYTIyWW5XNXFleWJaamhiWTllX3RCc09XVXltdjQxTVczVVh0c1dfZHNtelhCajFNMG5OMDdJWGw3VWVVZHg2MDVfR1B3QXc3dTIxbUo5SVFLdmJaanFKa19zaUY3LUc2YzZuU3BfNWgyUDg?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-06-17T07:00:00+00:00",
+      "score": 3
+    },
+    {
+      "title": "Dogecoin rebounds 3% as Elon Musk backs down from feud with Trump - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYThIYzIwTGNwQldVNW9BVnhNRlp3OXFWMkR5cHlWUS1HN1dRSGw1SENXcG5JdW1oQ2NrQzVNOHhRUWNzbWYtSEJlT2pSMnpzempBSlBUV3RnT2d5VlJwTzhOWXhOc0l0UmIyNG5vN2xKcW13ZWVubVRsVnJOQzMtUlU1RjFaUjFBRVlMSjJqei1odw?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-06-11T07:00:00+00:00",
+      "score": 7
+    },
+    {
+      "title": "Binance Wallet Launches the Binance Alpha Earn Hub: Add Liquidity to Earn High APR Rewards and Alpha Points - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPREUyNUk4dG16ZnpkYkhobGhfT29kOTYyd2Y1MDJIVDVpTjh4V3RCc21CZ2Z6YXp0anI4S1lCSTRFanRIX1BjMHVxZkRaUWl2ZnpjNkh5MjdkR1UzRUQyYVlBT1RvbFcwSkNadTlsV2ZteFZJUEFMWEJOZ0psUVFMVTl3cS1xeXkyaWZSLUhwcTc?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-06-11T07:00:00+00:00",
+      "score": 6
     },
     {
       "title": "TRUMP meme coin and Trump Media shares collapsed amid Trump's confrontation with Musk - Українські Національні Новини (УНН)",
@@ -770,11 +567,18 @@
       "score": 7
     },
     {
-      "title": "Investors sell the Trump-Musk feud, costing both men billions - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VUmxkdXk5dUJ1bEQ0eXdQM3VKNGVVQ2NKUlA4M2RibXpqZmEyZzFpd0hpRnNDcFJJMmd5cEtZOExBc2tYelNReHFpcjZkT1dGb21QZHVWZmIzUW45VFJyMWxvWQ?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2025-06-05T07:00:00+00:00",
-      "score": 3
+      "title": "Discovery, Access, Rewards, and Superior UX – Here’s How Binance Alpha Enhances The Web3 Experience - Binance",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56YnlLMjZqVW1XbTdsUmxSMjBIdEk3WjdRY2tiZHN3c0U0d24tdG5mZzZWanl5dkMycjNtN0EwQ0VKLVdMWFFJaXFwdE9wZUJyUHRvYVUxSGIwVjA1SC0yaEZsQzI0dGZ5MC1vVXNn?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-05-23T07:00:00+00:00",
+      "score": 5
+    },
+    {
+      "title": "Binance Alpha Review 2026: Early Access to the Next Big Crypto Tokens - Coin Bureau",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3akp6NFlDNFE2U0NXZmdYbG9YWU9hVlVJVXdLWVpMdUxfdTgyOW5kYnB0QW5PLUh5T1prbUhyQXZsZVlyeUFmWU93UTE3Q2tPZm1fZWVhRFlVaTg4SnNF?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-05-22T07:00:00+00:00",
+      "score": 5
     },
     {
       "title": "Once a crypto skeptic, Trump is now a big fan of the industry - PBS",
@@ -784,10 +588,94 @@
       "score": 3
     },
     {
+      "title": "What potential projects are there in Binance Alpha that can be listed? - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sQVViT3Q3dUJORm5Fa29xT0tJTUdEcDVnY3hPUDlhNGJtbEx2dXNxbVhMN1BGTHZKc1ZXVC1MUlU0ZnAxdHQ3Z1lpYmQxakhnZlVvYVdsTmpLN0FKLTNfajJhMA?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-05-12T07:00:00+00:00",
+      "score": 5
+    },
+    {
+      "title": "US Government Registered Several Websites Potentially Linked to Trump Meme Coin - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPXzNfVVUwQ0kzZHRpTjVFQkl2U2EwQmhZdDVKaWlWWW1IWjN6cFhvSmRuaHNUblJCa0FPX0Y2MXZvQ1YyVVRPYW8yRk53cHprd1pBNEdRNGVRWUU1ZlRURjU0dF9HQ2VRSWNoWkRqUEpYaW11d3F1alJReUxjZlFRZkY1R0Q5ZlpyU0VEZHlTYTRJY1BCLU9GY2Y4YTljWjR3aUNEd0lvdVdsR0puUXln?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-04-30T07:00:00+00:00",
+      "score": 7
+    },
+    {
+      "title": "What Is Binance Alpha? How to Check Listing Projects for New Opportunities - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42TzNTaTI5b0U2aWR6eUhzd19TNXAwRkE4NFZONGFmUDdJZmZpd3gydE9NTHhSWHI1SmVJRlJsYUstZlhXRWhtb3FQQ1Noa2trYkpqeUxFZW5rVEhlaHJfdGNKcw?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-04-18T07:00:00+00:00",
+      "score": 7
+    },
+    {
+      "title": "Tokens Removed from Binance Alpha for Technical Incompatibility - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSkM0bFEyNF8zR05DZWtBMFA2czFkRnR5YnUteXpTdWtXd1N3NVRLc3ZvMEN5QURnRW9HWFhZUktIZEJaelMwUWpkdDJQRC1ZQ0dPdGpUUmJxYllSZmpZMWltOF9pVWQ3QnJVUE8zYTRWaGYyREFPQmNpYWRidzJYanFLdU5jbW5NeDFyMXdtNkY?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-04-17T07:00:00+00:00",
+      "score": 5
+    },
+    {
+      "title": "PEPE on a rally after Elon Musk's tweet - www.thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc3M4dkNQR2FOQXpBSTdyeEVOemlhaWxjNWViMHlucjFHNVpyVkc5blJmVnkzUnFyWnIxR0ZXOXREeVJaSVVsMk9UWTZmWk1iY3VJUXJ2UmtOMjdSUFJGYm15NnkyakVsRVdlOUt3ZkoxZU1zZTNmRUpnMlN1RExVY0NEZVBwQQ?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-04-09T07:00:00+00:00",
+      "score": 3
+    },
+    {
+      "title": "Binance Alpha 2.0: A Complete Guide - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLRzRCdmF6ckFCeVB4SFlteXVUQ3k1akg5Y2I2QkhyZDE0bU5hdFdFSmV1ZHBkY3BlYnBjLU45QmVldVFkSnl6eF93cU5RdGM2Q0VzTVZMSGF0VkJHTkRRYURXSQ?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-03-19T07:00:00+00:00",
+      "score": 5
+    },
+    {
+      "title": "Discover Emerging Crypto Projects with Binance Alpha 2.0: Now Available on the Binance Exchange - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ3hJbzV6eHhyMjN3N1VVREtKSm56U0dfTzZzWVBFdm1JaWNaaVJHSXNJVjBJX1VUeFVmZ0xlYXdwY1lEVTlNZ3dndUtxXzZVMFZwSkdyaVkyc0o5amhya2k4NVdvUExmMlBLZGpudi00aHlNeW5OOG56a0xqZ2w4NHZUb0x4RHF2LXZ3aXpYcGw?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-03-19T07:00:00+00:00",
+      "score": 5
+    },
+    {
+      "title": "What is Binance Alpha? A Binance money-making channel you can’t miss - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wRjBnWkR5eFJrMXBMODBuY243ZjNtMmJSOFNUN0pIYi12RTNfSGxLUjJxY2JXeXdtOUJaeWd3LWV5WERHbExqT1pOcy1NTHRIOG5oVHV6aTE4cjRsX3ZGV21CTQ?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-03-18T07:00:00+00:00",
+      "score": 5
+    },
+    {
+      "title": "Dogecoin fan Elon Musk says ‘don’t bet the farm’ on meme coins - Quartz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0xuNW5Lb18zNDNWcUxucll6QUFFNXJUclhZeXlreHpYSlRtSTN5ZUNYd2xNX3c1Wl9oWEVVei14aGQ0MUZXV3c3aFc1LUE2YkZJRnhuRThhdUFfdVJCeWJKY1AxZmZraXlGYm1IWUtreUl6NGk1RldMdGlhdUFBdURR?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-02-28T08:00:00+00:00",
+      "score": 8
+    },
+    {
       "title": "‘Musk It’ meme coin from Elon Musk’s father brings scrutiny - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQ01SOWZ5ZklMRnp0bkF2WXlpaHJkaWRyamh3RzBQWXc4cnJ2clFnVDZBR1VyMU5LaHllS2RBNHZfeHBxYUJlVEV4TVNDeEM3Yk83YUk1WGx1S2l2aElfQ2ZlTFRZUGV5cE9FTHU1aTJIbVlpZGRka213?oc=5",
       "source": "Google News - Celebrity memes",
       "published": "2025-02-03T08:00:00+00:00",
+      "score": 7
+    },
+    {
+      "title": "Elon Musk’s Father Launches Own Meme Coin - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdEV3Uldna21GTzRySEhMSWNJXzBKelJZN2Yzekp1MVRTeF93Z3FkWVFKUUJPT016RUN6WS1YZW5udUVBWDZ2SWF1U09QRDBmZC1MejJNaGp2SkllZW5CTEhqczRMWTFMWjRTWXBCR3loRHZxQzFodmlYUndmckVGY1lZNjRDRnRrMUVN?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-01-31T08:00:00+00:00",
+      "score": 8
+    },
+    {
+      "title": "Elon Musk’s father’s ‘Musk It’ memecoin jumps 350%, beats Dogecoin, Shiba Inu - www.thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMExTTGZUM2RxeEdLakxKT1Z1M3BUdVdUVUNPdjRkVGE5TWJycGs0bVUzQ2x3eU1SQUVhalVJOEk0SnBsZFJYTWdqdUdCbGhiVUN3bnpWa0JMdnZiLXpnbGxTcTVLdHVEdklOYzViTkE5TFhxUDVCV3FKMW04b2FVZTdocS1ndGcxVWpkYjV6OHoyUUU3cjB6R3BUOU82bzB4SDU1eDExU3FEalFqU3JRZmxn?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-01-31T08:00:00+00:00",
+      "score": 8
+    },
+    {
+      "title": "Elon Musk’s Dad To Join Memecoin Gold Rush With $200M Target - CCN.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRER3eU0yN0Z5T2ZWYnRfbER0NlJkNjVCTkdUV3FkWVBOYlNJYy01UEZLejQ5cm80aEVfSXlPZHdOWnBHdWtpZUFfRXdIU0Z5RkMwdUFKU2ZwNEFLaXR5cEpPbURyUFFidmxDUE13NDJ0S1VXRE9Nd3hENHk5dVN5NWZncjE?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-01-31T08:00:00+00:00",
       "score": 7
     },
     {
@@ -796,6 +684,20 @@
       "source": "Google News - Celebrity memes",
       "published": "2025-01-30T08:00:00+00:00",
       "score": 7
+    },
+    {
+      "title": "Vine Meme Coin Soars As Elon Musk Considers Resurrecting App - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2Z5YUg1Q2pEOHZVLVhQakxjQnB2MThEVzVPSHR2czZPbm85SGgyWXhZNUZyX0VlS1k1RUFxRmRPVmkyTVFqUk43ZXA4OTlWVXptc2Y4X1ZoRm00M0ZFYzFKRWl4bHphVDliV2tZbTdwVDRvel9SaFhQTXhJS1V5QnUwbTJzV2s?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-01-23T08:00:00+00:00",
+      "score": 7
+    },
+    {
+      "title": "Trump shrugs off billions made through meme coin launch - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTk1LamRRbXJvYXZHOFEzZmo4MF9mMFpmSmVOU193QUQ2T1RhTkI5QzlVWHpieUFBblVuYVZXbTlZdDM2VjR4NjdPU2xRMHgyNDg1ZlNfMy1KMzlxWWluOHV1Snd2YTc1MWNZRjBvdzJpM2pqb2s3dktnUzdRaDVmNTZNNGlMX2x2OVhEedIBkgFBVV95cUxQbkc2LVRIOVZTSTNVdW5ucEpLNk5SX0w2ajloYTZPUTRRRm9WVlJFb1ZxaXlRVkJrR1pGRmRaS3N2ZmJoZzVJNm5wNUpqbFBLS3N0Mnp1OGNBM3FuZ2ZvX0xnaUpWcTBFTXBvazl2Zzk1V2swckhFSGRQSkxpMkRSWXo3THk0WEN3Yks2M2wtYU9Ydw?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-01-21T08:00:00+00:00",
+      "score": 8
     },
     {
       "title": "Melania Trump launches meme coin as crypto conflicts worry experts | Cryptocurrencies - The Guardian",
@@ -810,6 +712,90 @@
       "source": "Google News - Celebrity memes",
       "published": "2025-01-20T08:00:00+00:00",
       "score": 7
+    },
+    {
+      "title": "Elon Musk's Name Change Triggers Meme Coin Surge, Trader Reaps $3M from $66 Investment - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV0Z6Zkg0djhTTy1LMkJFVHZkWFVGYmZ1UVZwUk1ZanJKTG5jQ09JaWJuVHFNYWl1REdPSjVnRGhmczZ3OVpFMFNsZU05RThmU25OMkJSMDNBZlRtd2g2ZTlNMTJDQkliQjlVS0pjd0R0UlV0cFB1anZGQmdiT0RPWGdidw?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-01-02T08:00:00+00:00",
+      "score": 7
+    },
+    {
+      "title": "Elon Musk’s cryptic post sent another memecoin soaring — momentarily - Quartz",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3ZRckpWcWl3bDBwR2xNMlhqUTFNaWI0SkoyYi1ZQzM2Vk9ueTFrSWZMSWVmTENCVjRjcnc1bFBBZVlDdFNxVm9DQ0lSLXNhZUFWNTdURWFCZU1wRDdRbEkxaGZLdFJ5UDdYWWVKT1Zyd25BMkdKZ3Q4MzEwdXAwaWYtUE8?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-01-02T08:00:00+00:00",
+      "score": 7
+    },
+    {
+      "title": "Kekius Maximus memecoin tumbles after Elon Musk reverts X profile name - The Block",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVkwN0pSMnN6VzRsendIUWNZQVZ4SVhDMGdKMUdBR0c1d3V4NnZNcXZCT2t6T2JSZHMtX0RjREloeGFGeldTUDNrSlZER3JSTTJpS0RlOGcxYkJsQ1pycUY4aXJ3eHhoV3lYTFptVlEtRWpCbElqbVN3dXFUTFQwMDNIOTZFWlVvb0lZaUdCeUhPdw?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-01-02T08:00:00+00:00",
+      "score": 7
+    },
+    {
+      "title": "Elon Musk changes his name to Kekius Maximus on X - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VX2xiU0FORmI4UjZGR1ZrYjlXT3ZnV3l4Y2V3S08yLXVqQVBCUWFHZ0VQQWR6S0o5T2lJa04wUWlYQ1JwbVRUYjI0V1ZGUE1ibXJJelI2MmUyUQ?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-01-01T08:00:00+00:00",
+      "score": 3
+    },
+    {
+      "title": "Top Binance Alpha Spotlight Coins by Market Cap - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhUG9oa2NCeWM2aXNjS3hlajZMVG9wY1ZYLUFaWnJGNkVrWEpoUTVJbGtkc1hfcnF4dlUzSHRldXZyYjdmOXVQRmVWckdEUl8xSHZnbWs0WVNjOU1nQnRGN0xzMEJkOFRoOHZvQ2pIVWo?oc=5",
+      "source": "Google News - Binance",
+      "published": "2024-12-23T04:06:35+00:00",
+      "score": 5
+    },
+    {
+      "title": "Introducing Binance Alpha: Discover Emerging Crypto Projects - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTHZRTlh5NDVZVU1zb0tnRUdWZ0NUZDN2YmZKQjFfRFZKd040UktBY2VuOXRvZmJNNkxtb1M1MC04SS1feFNod0pSbnF5QnJrWFQ0TG1mWWVWMVlwS1ZkOW5oemlPR3otdkMwWEtBdThENmY0ZFloOGFmNTZ5bGhiRDdRZ0xwMkFvX2JNM2ZGSW8?oc=5",
+      "source": "Google News - Binance",
+      "published": "2024-12-17T08:00:00+00:00",
+      "score": 5
+    },
+    {
+      "title": "Dogecoin is soaring after Trump made Elon Musk's DOGE dreams come true - Quartz",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jRTE2aERFc1NLMS10UTdVUF9WdFAzQUpFVjRYUUE2X2NxYmo0RXVJVUwxRzI2cDhDVU5OYkxINEs4X3R2MWgyZkluQXZaLVNBUUFvUy15SUlnM2s5M2NfaGFqMEVRZGEz?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2024-11-13T08:00:00+00:00",
+      "score": 7
+    },
+    {
+      "title": "What is ‘Doge’? Explaining the meme and cryptocurrency after Elon Musk's appointment to D.O.G.E. - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFFfTnlKWURQQW44WnBtcG5CanpDakh4bkFhX2E5QWVuT1RQVF8wQzdiMWR5eEs0cGNFLUtLUlpWeWprOGo1bzY3OEQ5bzM0cy1iakcxNTQ0MmNFbnFMZFBHT2JQTk92UGRmYU1reDd5X3ptdS1HWVV0QXBLQU1fVlg4bm4yRWtMR0pR?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2024-11-13T08:00:00+00:00",
+      "score": 4
+    },
+    {
+      "title": "Dogecoin spikes after Trump announces a Department of Government Efficiency — DOGE - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaE5GLXpBRGZjdG5KMEtHNkJOMF85amZuVkc5OS1yLVE0eTJmWi1ZRW41N2d1ZW1haHVMX2Q5ZTdmYktXMGZnMnF2VENYY3JEdlA4X3JRYW1Db3VraXV0bGhjRmZjWlJ0bnZxTndUSEthTWxqeTFCTEJFeDhBTy01WFgzUTlOem9MazVYTC00ZTRjazhuaFpHNjFDNi1OajJIc0txa2VBVGd3YzhxUTdHMEh6QUo3TkhPNC16RHhoZlVWT2NneGfSAcsBQVVfeXFMUDlzQnhYN2N1d2FtQkRSa0JvbDlxODZzMlBkcnZOV19KLTdlMUZmRTJ0MjZZNEdpcUpUUkpyQzREZkFfbzJraTAzQkdGQTZ5Q3l0RnZZWnlpbWlUQV94UVFSSWxzTFVxWGQyZVJnWGdIZThNNENzNkRkcFJXY0pBNFpRbl8tZkhFMklNbkVGWVRYdURzaFZXRzZNRF9BWU44d2VRZ0VnU1p5THhXLUhuRUpEeFdlWGkxd09jTTdfU09yM0MtQVo4NTFpZEE?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2024-11-12T08:00:00+00:00",
+      "score": 4
+    },
+    {
+      "title": "Top 10 Memecoins to Buy in 2024 - The Crypto Basic",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pbEIzVnV0eXh5ME1nSjZlQjhhVDB1ZS1uNjhHaWlOSjJiYVpwcVhZV0tpMk5Db1A1bkJvWDZHMlBWQlZmVlBNVTYyZlh4Y1l3QXNLRjR5dnN1Y1U3VFV3?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2023-12-18T08:00:00+00:00",
+      "score": 4
+    },
+    {
+      "title": "Elon Musk’s Twitter changes logo to Doge, pushing the memecoin up 20% - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50Sm93VFpqdjNhaGhaM1BlN29USTRuZlJhaklBUUNFdWJsSUJEMGp4a2l6enlYUWVpX2Rnd2JwcW1hV1oydEE5bFU3YzBLVDRIRUZaTXJBTE9QSExTaFhtLWx0LVF6S2htRXNXQUEycmZUYVlwWmRJNmFhVHM5TG8?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2023-04-03T07:00:00+00:00",
+      "score": 8
+    },
+    {
+      "title": "Why Elon Musk's Twitter takeover has sent Dogecoin skyrocketing - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUEJUeVpBSS0tRnNLczREYWw0YWFwZWg4WWtxOUtKN1ZjWTdNdkRhOVNiX0dSV0Y5akF5cmhjRndUTzdpSV9GRl9ZOGpmM2s1YktYTmFDcTRHMWROQXctdnk5aURSUlpGUHRURElkUWlfMk1RQm01OXh2SG5LS3R5RkJaV1pTOWVaOHN1Q2VsLWtpb3N2V1ZuT2pjeC1tdXdaZE80NTY3bUlWOHlrNk1MWlFrSzd3R3E0QjFBd0NsVlFlZw?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2022-10-27T07:00:00+00:00",
+      "score": 4
     }
   ]
 }

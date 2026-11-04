@@ -1,11 +1,25 @@
 {
-  "updatedAt": "2026-11-03T19:06:22.936060+00:00",
+  "updatedAt": "2026-11-04T00:04:57.085156+00:00",
   "sourceStatus": {
     "successful": 6,
     "failed": 0
   },
   "disclaimer": "Public RSS / Google News only, not direct X posts. Delays vary. Rankings are keyword-based, not AI.",
   "items": [
+    {
+      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+      "link": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
+      "source": "Decrypt",
+      "published": "2026-11-03T20:36:02+00:00",
+      "score": 3
+    },
+    {
+      "title": "Jesús de Miguel memecoins draw backlash after striker’s death - Crypto News",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QaW9KX1M0eEhmT0lyM25Zc3VTdXJUV1BwWWE3RnZQeXk4YTJjZWZvMVV6d0RrbzhGM3I3cVNEcE9LSXVtQUpMVW1SV3o1Z0VZbHV2UWZuUWM4S0hPdXNTZ1BzR3V5UQ?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-11-03T19:45:57+00:00",
+      "score": 4
+    },
     {
       "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
       "link": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
@@ -192,15 +206,8 @@
       "title": "Pump.fun (PUMP) Fell 25% in Two Weeks, Nearly 3 Times Solana's Drop. Is Solana's Memecoin Machine Slowing Down? - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaFFHd3ZfWmJSM21hdHhZSzZ0VkdrZXVLVnJENy1TSzhkYWc2NW9MUzhPcURWRTRzLXFkei1FR2traF94a1RsWjZwdWkyOGJuUmFTODR6MXFjVVdkTGZ3S3FkZzAycEV5aUppd09iOGxJeGtmcW92RGxQT0g5SlJ5ZUhNaENBdGpxTnlCLWFJTHZzTlRGUERKUDBTTUVUbldHNWp5N0FHVW9NM29RZXQ1WTZQSEpnMXRPVEVkZnRlZk1XOFpibHZrS09TYTcxOWVJM0JSem96eERpWkRtNUhKUUVYNW02ZGZvWEd4RWtSYmFfczcy?oc=5",
       "source": "Google News - Pump.fun",
-      "published": "2026-10-26T21:00:00+00:00",
+      "published": "2026-10-26T07:00:00+00:00",
       "score": 11
-    },
-    {
-      "title": "Kimchi Puts Pump.fun Back in His Bio and His Token Jumps 150%: Is the Partnership Back On? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdFR6Ukx0clBMMGtjRm16TENuelRMVmRMSzhra2lMc0xSVmpQUXNTTXlpTWEyX193aU5SM21peElMcWJfTUMwU0stZi1TN0FGbUdtOWZwZ2FxbEdRQ2h6NHI1S2s5bGhkOXkxMEtVYnBNVF9JMEcybzduelRfanN2eVlDcW5yd3lGbGMtdlNEbnFBajVO?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-10-26T10:36:17+00:00",
-      "score": 8
     },
     {
       "title": "Argentine judge clears President Milei of wrongdoing in meme coin scandal - Reuters",
@@ -294,13 +301,6 @@
       "score": 5
     },
     {
-      "title": "Solana Meme Coin Jimothy Jumps 331% on Elon Musk Raccoon Post - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVXhWMGMwV1lEM0lVTzcyNEU0elFGTnoxVUt3NnlSQV96MENuWnhSaVd6dUJwNGM2dUM2OENPRGwzYnYtdHQ4UDhaNHpJNmowMzdtZEhrLUxieFFuN3JEQ1F2MnMyeEloRDRzTEtIZDlGdXpnN3hBVjhnTXgydHZaU01DWGNoVjF4Q3pEcTRSNWZPLW5wVmZuNVg2WQ?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-08-07T07:00:00+00:00",
-      "score": 9
-    },
-    {
       "title": "Hackers Breach Elon Musk’s Company Accounts to Promote SCATMAN Meme Coin - Bitcoin Foundation",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYklmZURReDhmOGhlb2p5N2FlVDNNTGhRX00yYkQzU09aZHo1Y3phbXkzc1NZTno1NmE2MUdiRG84TlAyYkNOMmowYjJzUTZkM0E3bVFISlFwN0hfcUFMUlk0Um9oemt6emtFN1BGYzFidHJtTGdwVjBRVFd5WlEyYlFR?oc=5",
       "source": "Google News - Celebrity memes",
@@ -343,7 +343,7 @@
       "score": 5
     },
     {
-      "title": "Elon Musk's 'DOGEfather' meme fails to lift memecoin - TheStreet",
+      "title": "Elon Musk's 'DOGEfather' meme fails to lift memecoin - thestreet.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFMtaml3ZzhZRFlNcXhQazBzRHc5ZVVSb1VkSUc5ZDAzckVmcTJwZGt6YVlOVGY5eU5ZUlJHR0s3WFk4SWEtV215U21EdnpDZ2Y5ZzRhUDlyT1V5SXQ4RkNDektCVW5ZcWxLWGc5UGI5cEpGUWZ3cDZWRlBuYXFRLWZNUzZSTmRqckV3bmJrZS00aGc?oc=5",
       "source": "Google News - Celebrity memes",
       "published": "2026-03-19T07:00:00+00:00",
@@ -462,6 +462,13 @@
       "score": 3
     },
     {
+      "title": "Binance Wallet Launches the Binance Alpha Earn Hub: Add Liquidity to Earn High APR Rewards and Alpha Points - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPREUyNUk4dG16ZnpkYkhobGhfT29kOTYyd2Y1MDJIVDVpTjh4V3RCc21CZ2Z6YXp0anI4S1lCSTRFanRIX1BjMHVxZkRaUWl2ZnpjNkh5MjdkR1UzRUQyYVlBT1RvbFcwSkNadTlsV2ZteFZJUEFMWEJOZ0psUVFMVTl3cS1xeXkyaWZSLUhwcTc?oc=5",
+      "source": "Google News - Binance",
+      "published": "2025-06-11T07:00:00+00:00",
+      "score": 6
+    },
+    {
       "title": "Discovery, Access, Rewards, and Superior UX – Here’s How Binance Alpha Enhances The Web3 Experience - Binance",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56YnlLMjZqVW1XbTdsUmxSMjBIdEk3WjdRY2tiZHN3c0U0d24tdG5mZzZWanl5dkMycjNtN0EwQ0VKLVdMWFFJaXFwdE9wZUJyUHRvYVUxSGIwVjA1SC0yaEZsQzI0dGZ5MC1vVXNn?oc=5",
       "source": "Google News - Binance",
@@ -500,7 +507,7 @@
       "title": "Binance Alpha 2.0: A Complete Guide - Binance",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLRzRCdmF6ckFCeVB4SFlteXVUQ3k1akg5Y2I2QkhyZDE0bU5hdFdFSmV1ZHBkY3BlYnBjLU45QmVldVFkSnl6eF93cU5RdGM2Q0VzTVZMSGF0VkJHTkRRYURXSQ?oc=5",
       "source": "Google News - Binance",
-      "published": "2025-03-18T07:00:00+00:00",
+      "published": "2025-03-19T07:00:00+00:00",
       "score": 5
     },
     {
@@ -614,6 +621,13 @@
       "source": "Google News - Binance",
       "published": "2024-12-17T08:00:00+00:00",
       "score": 5
+    },
+    {
+      "title": "If You Invested $100 In PNUT Meme Coin When Elon Musk Tweeted About Social Media Squirrel, Here's How Much You'd Have Today - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSFNNdG9Lel80RFRPUUJmd0xHdGFOMHZ2VnpTc2hydFRvZVpxekNiNUVKSktRTzR6cC1Jd1VveklPSHNvZkFGSnE0Z1Q3UXFsUkxLZ3ZIU1liSWk3SU00b3JwZGVmMlg1R1MwRnZDUlh5MkROWUVXc2YxQ3Brc21JQkNWaEM2OFp1cXdhdGk3akJnajFkUjdpNXFNdXRhQ19IQXpZY3Yxd0V1em1zQWRnMjU1bUNnOVZESTZnQXEzQVFteUk4bXZMa3pvZEdxZEg0b1ZEWGdxV2pCOGhRWktPbThxTnp6Y3RXbnpKRW1zclZUWmFWa2ZHbHEyOXY1ZDF6eUhEcWo1Qy1PbHJ2?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2024-11-14T08:00:00+00:00",
+      "score": 7
     },
     {
       "title": "Dogecoin is soaring after Trump made Elon Musk's DOGE dreams come true - Quartz",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T00:10:14.745584+00:00",
+  "updatedAt": "2026-11-11T06:56:01.470290+00:00",
   "sourceStatus": {
     "successful": 6,
     "failed": 0
@@ -12,6 +12,13 @@
       "source": "Decrypt",
       "published": "2026-11-10T21:36:03+00:00",
       "score": 3
+    },
+    {
+      "title": "Pump.fun Adds Cross Margin to Hyperliquid-Powered Perps - The Defiant",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0w2TE9aTHpTLU1OajNGSEwtcmFVdU5NbEI2WlZ3QW44OGM1b2lkUUVUUndNV05oRHRUaW13Sk5PR0RJNV9YX3hTSzZvMFA1SDE5TDhfcU1lTlotZGU4NWF1NEF6V3lVSjlQT1lyQ3Z5MzJXWHEwenRvWE5FT0E5RjA2SDFPcGg2STZLdDlIc2g?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-11-10T21:26:33+00:00",
+      "score": 5
     },
     {
       "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
@@ -61,13 +68,6 @@
       "source": "Google News - Pump.fun",
       "published": "2026-11-10T17:56:54+00:00",
       "score": 7
-    },
-    {
-      "title": "Pump.fun Adds Cross Margin to Hyperliquid-Powered Perps - The Defiant",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0w2TE9aTHpTLU1OajNGSEwtcmFVdU5NbEI2WlZ3QW44OGM1b2lkUUVUUndNV05oRHRUaW13Sk5PR0RJNV9YX3hTSzZvMFA1SDE5TDhfcU1lTlotZGU4NWF1NEF6V3lVSjlQT1lyQ3Z5MzJXWHEwenRvWE5FT0E5RjA2SDFPcGg2STZLdDlIc2g?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-11-10T17:26:33+00:00",
-      "score": 5
     },
     {
       "title": "Pump.fun (PUMP) token drops 5.74% in one hour a... - Pluang",
@@ -126,8 +126,8 @@
       "score": 4
     },
     {
-      "title": "Trump memecoin's market value collapses from $72 billion to $340 million after US midterms - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOXy1WSUVaemEwMElodkExZGU0ZEZDMll4MUd4ajBJbDNIS1gtY24wbVlkZGt6VVd4YURlQjhoOHhBTjJfQlN5VzlXTE1lUkpKd3NOYUJRQXM0MXdoVTFVSGlSZUtuU0lqSk9jckU3SXdMOHlfODRHNmNQMmdVWjMtUjJMYnQ1QmNvcEZqQ1hOSVF0NDhuRXdxaGQ4SGhCQ0ZRMG1VMm9n?oc=5",
+      "title": "Trump memecoin's market value collapses from $72 billion to $340 million after US midterms - The Cool Down",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOXoyb0lWd21uQUVvdi1wVWxsa2g2LVBjemlKRzlzZDRMOVl4VzBKU3FvUUY4Q294RnAyM0Nzd0xLY3ZpWnBiTGhyOVB6YmpQSWhqWGdkenRZQm5tanc4elNZNjRYT3NTWVJyM3FEakZtcE1rNXpoZEFRX2h3M1pLa29RVmlOckJTdW1rZjh5T1Q0UzA?oc=5",
       "source": "Google News - Pump.fun",
       "published": "2026-11-10T09:13:00+00:00",
       "score": 7
@@ -152,13 +152,6 @@
       "source": "Google News - Celebrity memes",
       "published": "2026-11-10T05:45:00+00:00",
       "score": 4
-    },
-    {
-      "title": "Base/Solana Smart Money memecoin inflows, last 24h: Collecte - KuCoin",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0X3h0dE9CTGZlQkhMS1lyUzRkX3phVXBQWnNYQ2trYld0MGdQbkQ3dExYSEE2REwtZWxfVTNHRUlrUFAxdGpVaXhZWFExT0IySFJGaFB1THRrdGNFc0JiWnJfWTE3MFp2YkdaV011YmNyQQ?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-11-10T03:44:30+00:00",
-      "score": 6
     },
     {
       "title": "Binance Alpha Restores Withdrawals Across Four Networks - tokenpost.com",
@@ -187,13 +180,6 @@
       "source": "Cointelegraph",
       "published": "2026-11-09T20:26:34+00:00",
       "score": 4
-    },
-    {
-      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-      "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "published": "2026-11-09T19:52:34+00:00",
-      "score": 3
     },
     {
       "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
@@ -259,24 +245,10 @@
       "score": 4
     },
     {
-      "title": "XXYY shuts down, latest memecoin terminal to close as traders move on - CryptoRank",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXo0LTlVVHBZb2RULUR4Rnh6aTdjdllsN29YMjB1dmRvMGFqNG5zZVF6UUxkUDZIQ0pvb2xTLWVlTjd3UWxXZXBZQUc0dGFXcmdJRHpmMEJyUThJNWVGSlRRakNzdnNxakJleXhtaXo2bmpoNGkyenV3TktPNnJITkJ3WE0?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-11-09T14:04:53+00:00",
-      "score": 4
-    },
-    {
       "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
       "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
       "source": "CoinDesk",
       "published": "2026-11-09T12:41:35+00:00",
-      "score": 5
-    },
-    {
-      "title": "Pump.fun leads losses with 6.52% drop amid broa... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNndUZkg3eGZPbzIwWkJ4cktlRTRJS1hGRUJxclc2NFBKMEMyOXRSNmhkbFVfcFNwekl0Y3hwRXIybmIxQ3JSMDFEVzdOd01DX2k2eE5sUmUxbzRxZXVMZ3dmY1drb2EtM0JZdmdFbTFzcFJVb1hDY3NIa19EOVZQakxFWWc2QWZoSVM1akJlWnlsdzAwVWc?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-11-09T12:23:07+00:00",
       "score": 5
     },
     {
@@ -285,27 +257,6 @@
       "source": "Decrypt",
       "published": "2026-11-09T11:26:27+00:00",
       "score": 3
-    },
-    {
-      "title": "Solana Targets Durable Nonces After $270M Drift Hack as Pump.fun Backlash Grows - Cryptonews",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBENkFJOVh2NDhyWDdTdmRoQzY2clhtTDFqdzlhelU4UjRjaDdoeUs1dDdGNHNHVEZFeVpiZjdycEZ1YXZVay0xMFFXYjU2aTJmWXZkWkdoRmV0Yi1sOVMwaHRHVktkbWQ2RVBYUDNKc0xhNFlhbC1GQ0hn?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-11-09T10:05:35+00:00",
-      "score": 7
-    },
-    {
-      "title": "Pump.fun crypto drops 9.74%, weakest among top 90 non-stablecoins on Nov 7 - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVGl6VmZrdExYckQzMGhrVXhPT3phNm5iZnlnUXRMRmNaTnZiLXFBei1PYW5FMENTT3lDdWxNSXdTVWFVd1lnQkdLellhdXdSZkRsNnJKTjUxWVZnYkZHZG9kVFNfbmpDOGlyaXNZMldWTGpoYmR6Ri1Fc051dTY0SzdxSlRISjYxdFRNUWpRX0Y2WGVXTjRUUGZmajU?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-11-09T07:30:26+00:00",
-      "score": 5
-    },
-    {
-      "title": "Robinhood Chain was built for tokenized stocks – But memecoins took over - AMBCrypto",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1cybGNnUG9rcm9GSkwxMVNYVmp2MFlWRS1WaFRKSkZJOUtYX3FTUllNc21NaU03MURlNGQteG0yZXJpOUZpXzJ5Nkppdlo1QUMzUDVKMW9hVEZsYzJnWlZ5OWJSMmt4NWJCcmtIQmFweFgyVVBqQklBUjZVWXh4X3FhRkhibUxNd1FoaTlnVGVKMjhNRlQ5Qw?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-11-09T01:00:17+00:00",
-      "score": 4
     },
     {
       "title": "Pump.fun Price Shows Short-term Rebound - The Cryptonomist",
@@ -336,6 +287,13 @@
       "score": 3
     },
     {
+      "title": "Elon Musk Did It Again! He Shared a Video of CZ, and This Altcoin’s Price Soared! - Bitcoin Sistemi",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPODRRN1dhdWFGRGsweW5udWF2LWlOV0FhbEhSUEl6Qm41aUduUmM2OG5XNW14TVJqb0gtVWJpNlVCcWhuVFhkYmEzYTNMalpmSW50TlJsVHRqM05obnBsaWZPalhSa2FzUjJtbVIwUDF5SUdhOVdkR29aQnIxNzFoVFlxSEJzLUJJYjdXMGhjYXNHTzFwQjdUSWJyQTBxUnE0UkMwNG0zVlVWekh5bGc?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2026-11-06T11:55:06+00:00",
+      "score": 3
+    },
+    {
       "title": "$TRUMP Memecoin Crashes 22% to Record Low of $1.12 as Democrats Sweep Congress - BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rVk8yQmRiLWlrVGRNOHZBLV9fekh6WEQ2ejBlWXRTT0I3V0trdlZaNnpwcXAtZ1h2T1RfZExkbnFnOGJtdzZON1VZazk5NmJlQ0xsT09XanJtVkZ0TUE0ZmpaME1sMDhwMVdFYzI4dW9TWEpFSkE?oc=5",
       "source": "Google News - Pump.fun",
@@ -350,11 +308,11 @@
       "score": 7
     },
     {
-      "title": "Pump.fun Token Price Falls 7.61% in Four Hours to $0.003912 - TOKENPOST",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWSnZwRmFLSWF5SVhRZnRyendDcXJRUENkV0tHLVZSbWYwRVlkSUoyNkEtMmJSdk5fQ2dJdVdkdFEyTlVFVWk0ZnNCRGhJNHNSbnFQNEh2Q25hdw?oc=5",
+      "title": "Solana-Based Memecoin TROLL Rebounds 20% but Remains Down 27% Over 30 Days - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiMFYwYkNobERHaHFpdkJqSk84YnhURElIdk5xTk1rNlVtSjJZVjR5TzBWcGFrMVVJNXpvdUhhaS1aVTZPbGZtOV9jQi1yMDNHQUdEMU9PR1o4Zw?oc=5",
       "source": "Google News - Pump.fun",
-      "published": "2026-11-05T17:10:28+00:00",
-      "score": 5
+      "published": "2026-11-05T19:23:24+00:00",
+      "score": 6
     },
     {
       "title": "Pump.fun (PUMP) Volatility: 4.08% Move in 42 Hours Explained - CoinMarketCap",
@@ -369,13 +327,6 @@
       "source": "Google News - Pump.fun",
       "published": "2026-11-04T19:02:00+00:00",
       "score": 7
-    },
-    {
-      "title": "Shiba Inu Navigates a Competitive Memecoin Jungle - OneSafe",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vZ25mVkEtOU9VSm9SRXNCV2pGSXg1QTR6NG5tSE1NQk1TbzdIMEYzSVgzTm9UQ1JfbkFRd0xZTWtqT2cxWXlBdDZQSVBFUE1ZbzZhZTc0cno2blZucldWTUpPeXNuQQ?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-11-04T17:12:34+00:00",
-      "score": 4
     },
     {
       "title": "Binance Alpha News: Market Bleeds, but Alpha Holds Its Ground - CoinMarketCap",
@@ -427,6 +378,13 @@
       "score": 5
     },
     {
+      "title": "Exclusive | Hunter Biden (and His Laptop) Enter the Cryptosphere With New Meme Coin - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ25xQUE5RHlFMGtPVlFBN3M5ZFRJWDdCX2o5V3dHVHJVSTlMWV9nOUw3VkhkX3YyUUlYX3BXZFhHMW1EZlFsVVQ0ZmNtaEtzNlVoU3ZvTUJ4LXN1SjI4NjV2cWZSYW1kTS1XRnNrTnBpVFdkQ2ZXdWo1SUF0emNZXzgzNFBfNi1rdzA0N3RCWWowaFU4NlA3b3JXNWFRQ1VmSUZLbWZFcEhuZU83elhwcDlSMGtDa0Q3?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-09-07T07:00:00+00:00",
+      "score": 4
+    },
+    {
       "title": "Elon Musk was baited into a $80M memecoin trap – Here’s how - AMBCrypto",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU2dsQmhkcnl2SDNkWXRTSmswVXdBcUpfYXdoNkYxMGE3dldmNGpzZWhrRkdtT3VsQ0FvYXpodG8tX1FOZTM2ZkNaZ2RNR1dsN0xnRnlhREhUMG11M1VIdFNTcHRMYnBVM1BJRDJjZmY5UV9GRmZjNEFRWTZ0U2otMW03UF8?oc=5",
       "source": "Google News - Celebrity memes",
@@ -476,11 +434,25 @@
       "score": 3
     },
     {
+      "title": "Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHhsX0xRVUN5QW1UaVVUWTUwVFltek91TmZrY2x3MUFhSVg3V2VrQjc5LXIyU1BycUx2bXRtT0VtSVdVUFpibkx2VmpwRG9GZ0NFdXcySmJUUDlzUjhJcVp4S1owTGQyRzBzY2Y1bnAyTWcxRmFyTW9EMElTMmNMSUdYRWFIZkNJYjVLVA?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-07-06T07:00:00+00:00",
+      "score": 3
+    },
+    {
       "title": "Crypto Brought Trump a Huge Windfall, Even as Many Investors Lost Big - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0pCdEcyMWN2a1M2cW5fcDd6Rk5kNnFPN0RjQzBWSi1jNGs1WVgzWDhxRTR3NVlRUnBFUGRlLXNkSlJFaU94RFFoN1Bnek1LeW5ZV0JVYXlVMFpXd2RSaVJETUlwempURmFwVDFHUkFXUy1WbGozWFd0d1FXWHg5S1JrbUJwU3lNTWVWWmlSWHU?oc=5",
       "source": "Google News - Pump.fun",
       "published": "2026-07-01T07:00:00+00:00",
       "score": 3
+    },
+    {
+      "title": "State of Memecoins Report 2025 - CoinGecko",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBudGw0WmwyNTJJSTVYRUVLaXJGTVRsV3BwX1Z6UUtZR3lwS1MyMTkxaDU4cVVqaUdQaV9Ya2ZCSlRKTHZoaTgxV2hyeTdMOTk3NHlESlM5U05KVnBOb1d2enZJbUM0aVN2US1hMEFiSzV3cmgzanhjS1VyTQ?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-05-02T07:00:00+00:00",
+      "score": 4
     },
     {
       "title": "Binance Alpha News: OpenGradient's $636M Volume Mystery, BUILDon at +201%, and Alpha Box Goes Tiered - Yahoo Finance",
@@ -490,11 +462,39 @@
       "score": 5
     },
     {
+      "title": "Meme News: Pump.fun Burns $370M in PUMP, Launches ‘Charity Coins’ as Memes Rebound - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWko1MmdDSzJ3ckQ4aXZyNVpZN1lnLVJMOVRBdDRGaXpXNl9EaU4zUmJlUzhEckhST2dHYXk0Z1dybEJMWFM4Ul9KVWZlTFUwM3Rmc19SMFVPYmhKYW1jbXFkaW9JWm9TNTlseFIyb2lyMVV3YjZEM2t1SzExNlBjUkhxZVVSTFBFVV9HVHBTbkNlMWM?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-04-30T07:00:00+00:00",
+      "score": 6
+    },
+    {
+      "title": "Investors lost billions on Trump’s memecoin. Another gala won’t fix that. - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVXVSUlk5dWZSTENNZ0Z6NHhvLUZJZ1R3RUJHNWNDSERXQmJ1WkJpX3pZbzZuSVh2d01rVEE2WDR2QndueGs5Z3JOa3h3Z0RoZFlEeW9pWEg0LUNTSnc5dmxvZUxHR0EyTzdiZFhGWTVsSTdHY2JpQ3FjTklMeWoxUnBvRGNqVnZGeXN6S0RTdFBibzdqeFVHUUt3dWdnQ2VyTlNRekIwMERSX3pjTk9CVmxER3k?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-04-22T07:00:00+00:00",
+      "score": 7
+    },
+    {
       "title": "Introducing Enhanced Binance Alpha 2.0 Limit Order Liquidity Providers Program - Binance",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGJkdldmbV9DQU9JWXJLend5eHhtbUlkT1BOR0dsQzNlUTluWHpSekc4c2s4OHRWLS1kQUdQUkcwWmx6b3Y5VFlscnM3T1pucEttRERTbDRBNFBfSXFsNS1wNXRWRkJLZlVlWnJacVUydmxLc29YMWZpWE5ka01vSjJiNlJMRldSU3oyb2ViSWg?oc=5",
       "source": "Google News - Binance",
       "published": "2026-04-20T07:00:00+00:00",
       "score": 5
+    },
+    {
+      "title": "Pump.fun $350 Million PUMP Buybacks Fail To Lift Token Price - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWQtUmFYMEFicGQxWGxpOGV2RXMtcGZ4aEZkVDFEODFsVHhBR19UMUpxVG0wRHhBWldKRzdKWFhncXhmM1F0UHdvOUVXS3U4MFExQ2dhUWVpb1NXQldpMHNVYm5Pb1p5UTMyZjBaN3o2ZEUzcDdHVVVwNjR2LThuXzQ0emhtdmdVMlJmQ2NVcmlyeDJx?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-04-05T07:00:00+00:00",
+      "score": 5
+    },
+    {
+      "title": "New Pump.Fun Update Fixes a Major Flaw in Meme Coin Trading - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVVrQU5weUtUUWNRVHJwWWp0YlJxaWlzVEhTSFRvcW1nS1JnMlF5R1lmMXVEYlZLODd4OXVRRWQtMk5QMWJha2VYMFFFVHJ1Y3VDSklCLUJoS0g4X1I5YU9pbDVxX0lxS3l5T3FlSkpGaHRUbmtWZWtaMGRSWTRxRWJ6VFVnM1Bsem5IX2dTbEtuaElR?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-03-25T07:00:00+00:00",
+      "score": 9
     },
     {
       "title": "Elon Musk's 'DOGEfather' meme fails to lift memecoin - thestreet.com",
@@ -630,6 +630,13 @@
       "score": 7
     },
     {
+      "title": "Influencer who attended Trump’s memecoin dinner says he got a ‘Walmart steak’—and no access to the president - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV0ZnTmhCSEFYRjNvRkh5M1pqMndob1g1b2xsQWxiYjRxVEQzUXhUQi14dktzVWNXVUpuWUNzTDFHQW9kbmN4bTZna3k4clNRRERqUm1JT2c4YUZQV3hnbXJ3c2ZOaE5hR3BvZWpnLWMyZnF3bWtQVUt5LXA2SG1wcHo4bjIwbDJLNFdfUQ?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-05-23T07:00:00+00:00",
+      "score": 7
+    },
+    {
       "title": "Discovery, Access, Rewards, and Superior UX – Here’s How Binance Alpha Enhances The Web3 Experience - Binance",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56YnlLMjZqVW1XbTdsUmxSMjBIdEk3WjdRY2tiZHN3c0U0d24tdG5mZzZWanl5dkMycjNtN0EwQ0VKLVdMWFFJaXFwdE9wZUJyUHRvYVUxSGIwVjA1SC0yaEZsQzI0dGZ5MC1vVXNn?oc=5",
       "source": "Google News - Binance",
@@ -714,13 +721,6 @@
       "score": 8
     },
     {
-      "title": "Binance Alpha : How to Discover New Coins & Participate - Binance",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfTG1sdktkeEFqWFhaSURtMTlsTUhnX1BGXzh1blJhODkyZkdPYndZLWl4SWFTWEkyUFJIeE9qZGpiQjNtRWRnb2xPYVdYMnpydFU3OVJ0UTBKSWQ1R01jakJDb1NKU28?oc=5",
-      "source": "Google News - Binance",
-      "published": "2025-02-19T08:00:00+00:00",
-      "score": 5
-    },
-    {
       "title": "Elon Musk’s Name Change to “Harry Bōlz” Sparks $28 Million Meme Coin Surge and Raises Security Concerns - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PRld0WWhyZ3BHZmpzVHA3WWEyTDRhRmp1RWdkQ3lHRUdWQ1V2SHR3Y0hIMXBZYmRpU0JLNzZFbjhpNE9XZ3dBZ2FyOXFXekMxRU9VMHdITlNIMUJ4UmFONzZjY3JXdGFvbHJlck1MTmI2UWRzMTJLNXp6RTdaUQ?oc=5",
       "source": "Google News - Celebrity memes",
@@ -747,6 +747,13 @@
       "source": "Google News - Celebrity memes",
       "published": "2025-01-31T08:00:00+00:00",
       "score": 8
+    },
+    {
+      "title": "Inside Errol Musk’s foray into the volatile world of memecoins - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWi04VjNMbFFEOUxKcVlVdTFaRG1CcFpjRlRCOXZMZU41akxmWlZ2VmpiV2FVZ3otVGRQV0JnT005Z1plc0tlajBsVmJsejlucl9hc2V1a1c0a0ZaQmJTaGRMaUdra0kzU2JMVmpxUUpXb1ZIcldUSVZvaWp6b25LcjJiNUtCNkpFVjRSekZjYmN4eUNuWkktcQ?oc=5",
+      "source": "Google News - Celebrity memes",
+      "published": "2025-01-31T08:00:00+00:00",
+      "score": 4
     },
     {
       "title": "Elon Musk’s father Errol looks to monetize his famous name with ‘Musk It’ memecoin: ‘I’m the head of the family’ - Fortune",
@@ -837,13 +844,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSFNNdG9Lel80RFRPUUJmd0xHdGFOMHZ2VnpTc2hydFRvZVpxekNiNUVKSktRTzR6cC1Jd1VveklPSHNvZkFGSnE0Z1Q3UXFsUkxLZ3ZIU1liSWk3SU00b3JwZGVmMlg1R1MwRnZDUlh5MkROWUVXc2YxQ3Brc21JQkNWaEM2OFp1cXdhdGk3akJnajFkUjdpNXFNdXRhQ19IQXpZY3Yxd0V1em1zQWRnMjU1bUNnOVZESTZnQXEzQVFteUk4bXZMa3pvZEdxZEg0b1ZEWGdxV2pCOGhRWktPbThxTnp6Y3RXbnpKRW1zclZUWmFWa2ZHbHEyOXY1ZDF6eUhEcWo1Qy1PbHJ2?oc=5",
       "source": "Google News - Celebrity memes",
       "published": "2024-11-14T08:00:00+00:00",
-      "score": 7
-    },
-    {
-      "title": "Dogecoin is soaring after Trump made Elon Musk's DOGE dreams come true - Quartz",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jRTE2aERFc1NLMS10UTdVUF9WdFAzQUpFVjRYUUE2X2NxYmo0RXVJVUwxRzI2cDhDVU5OYkxINEs4X3R2MWgyZkluQXZaLVNBUUFvUy15SUlnM2s5M2NfaGFqMEVRZGEz?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2024-11-13T08:00:00+00:00",
       "score": 7
     }
   ]

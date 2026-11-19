@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T15:57:41.256900+00:00",
+  "updatedAt": "2026-11-19T22:58:18.241329+00:00",
   "sourceStatus": {
     "successful": 6,
     "failed": 0
@@ -7,8 +7,50 @@
   "disclaimer": "Public RSS / Google News only, not direct X posts. Delays vary. Rankings are keyword-based, not AI.",
   "items": [
     {
+      "title": "Solana co-founder Toly calls Pump.fun’s bonding curve nearly optimal - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZlRLb0I0ajF6eUZGNDVEX2NtRENFQzBVX0l3WUYwZkdqdjk2NTlyc0tTN0Z2SFNBNzRxVUd1ZllzaGFaMTMwN04tMVU5Q1pMTXJxQkNHVkRUMzZmQ3R3Tno4bHRkaDNscks5S21TdmNXMEt5b3g0eTEyaEItamlaQ0NR?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-11-19T22:22:22+00:00",
+      "score": 7
+    },
+    {
+      "title": "Lame investment on a lame duck? Trump to hold dinner for memecoin holders as price tanks - Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TdklmWHRJc2tSb3l4Q1hpUk1MMXJKcjFHSnhMYWZzSDJPam5felVHdUlKRTJEMmNielBYVUgwMmN5em95TFFnYWRhM0U5WWtjRk5iMnJjSDZmQlh4cjdB0gFcQVVfeXFMTXZNVnQ3ZFM5cThfN2p3cG9XbFRjRWVCbG4wcWZJakc4QkU1cTdWLWZ0N3hnMkQ5NmR1b0w4NkxFSVRHS2xnWW82VnFSSjJUMlFrbDE3SXBuMHY4cGs?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-11-19T21:40:00+00:00",
+      "score": 7
+    },
+    {
+      "title": "Pump.fun influencer allegations: $100,000 monthly offer came with callout demands - Cryptonews.net",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpY0lxYTU1TjItV3JXX2hScllnZDktOVI2Zzk4UnE3bDJEZlhic3psMU5HU2VjTXhBdHh2bDNVVkVjdnJDMzh2UlUzNVgxNUlOeHZIYVpmOTg3Zw?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-11-19T20:29:02+00:00",
+      "score": 5
+    },
+    {
+      "title": "Trump to hold dinner for memecoin holders as price tanks - MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjBRdHBsOTItalZPSEpEUk5TUjBIRk1IQk80XzZmSFJjRGZJekxpR3gyRF8xNjdvR0ZMamFUaFVGaHQ2eHZqTnZiV1dybkJTNnpMMEZheUNuR3RFRF9yT0FJYkdSeUY2S3lRbkY2dk1MWmZEbEhPVTVVMGlvZUdFQXFWVGVJUmxBNWNqU1pzczlVTEd0Vm5Hclk1ckc4UkNiUlk5RDZMNA?oc=5",
+      "source": "Google News - Pump.fun",
+      "published": "2026-11-19T20:21:43+00:00",
+      "score": 7
+    },
+    {
+      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+      "link": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "published": "2026-11-19T20:06:34+00:00",
+      "score": 3
+    },
+    {
+      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "link": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+      "source": "CoinDesk",
+      "published": "2026-11-19T18:15:56+00:00",
+      "score": 3
+    },
+    {
       "title": "Interest for Trump's second meme coin dinner PLUMMETS - Modern Ghana",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kWnkwT3Fadjl2WERSOTBYeHJ0R2lKYjV6OS0zTl9INGNtdHpNbGlwemFKTTFpY3hiOE1OMEZQVFhLYXN2WVU4T1RpQXVsR05KRzVtc2M1ZWl5VWZTNzVz0gFcQVVfeXFMT05aR0NJQk44Rng3ckVJN3JwNkp5bjkwaDZ5S3JYOUY1YzZhSUhwVU0wV2pTc3Z1SHoxb0steXZVQkxXaUJxZ2RJWGFmMTBwOEdRS0tMNENJSE5OLWY?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1MVlTaFZzUzREbGRrcjZuT3RQX05hQU1WWHg0LVFsTkFUdWNVMG5QUWE2cmkxUWp6enJ3NnJYNVo1M0pzMlVtS1lGdmNiXy1YdzFTS1d2QXNybHdsVEhR0gFcQVVfeXFMT05aR0NJQk44Rng3ckVJN3JwNkp5bjkwaDZ5S3JYOUY1YzZhSUhwVU0wV2pTc3Z1SHoxb0steXZVQkxXaUJxZ2RJWGFmMTBwOEdRS0tMNENJSE5OLWY?oc=5",
       "source": "Google News - Pump.fun",
       "published": "2026-11-19T15:40:00+00:00",
       "score": 7
@@ -54,13 +96,6 @@
       "source": "Cointelegraph",
       "published": "2026-11-19T05:09:45+00:00",
       "score": 4
-    },
-    {
-      "title": "Binance Alpha Spotlight Leads Gains as Quantum-Resistant Falls 5.33% - www.tokenpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1NGhMWGM3X0IteTlmZzhLNWJYOW9ub3RzVnhSbUhvMVpwajltUGJfRXNaM2JwVmZ1X2NyMTZ1LU4teXlnVllYeV93MkJoYnJEdHpQZS1JRlpjZw?oc=5",
-      "source": "Google News - Binance",
-      "published": "2026-11-19T03:10:00+00:00",
-      "score": 5
     },
     {
       "title": "Trump administration unveils new center to choke off scam payments",
@@ -231,20 +266,6 @@
       "score": 5
     },
     {
-      "title": "Solana memecoin decline reflects return to fundamentals, Seasons CEO says - Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VcE81N2kxU0tuSmZtMXZoV2F4MGVTTGpMYzVrVzlOTkFIdHlDb2pSWmNEMVVuRU5CV3F3aURHWExweENMY1M2U3RrVlQ4WTdpcllZVm9LSTlMNUtjX2NLYUhtVFVTb01Fc28w?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-11-13T16:36:45+00:00",
-      "score": 6
-    },
-    {
-      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ08zQTlNU1VEaklDTlc5elc3Skdndk9hRGR6QkZfc2pleXI4SWxJSGpldlExNDlmUldMZFU2SE1mSjhFWkZjUlU0ai1pYk9ZR3BOcXNiZDg1V2ZBYkVXSWRJbTVsQWUxMnphNGtRNnh4QVBSYVNDY19PYjBQRGxodnpJTWI0TElTaU5uSW9VQTR6clROV0V3elFiQkgwZ1FUbno1dnlWV0lxVFowaE1Qc0hVdktGZF85S2hVVllzOUV4djFkWUNJdE1xWVpUOVUwdjBGWEduSDJTUQ?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-11-12T22:29:58+00:00",
-      "score": 4
-    },
-    {
       "title": "North Korea is making Elon Musk memecoins to launder $6.3bn stolen from Binance - The Independent",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1dMZm01Tmx1cU5ObnJPQzR0VkpCWDhERU1mazZ5MzNrSHktZFNuRUlnNlVweWhWbGl4b09obXhfaXhSRmVPTmdEbmdpakFDZEJUSjljYVhfNWVSbFdMLU9sWk9mUGs0QlhZNEhKRVB6aHdWTjFuNDVQeVNxUkg5Y0J1eTlneVlGME5VcGp2UVItZi1BNmlPbkV5SVlpMms0UGNB?oc=5",
       "source": "Google News - Celebrity memes",
@@ -273,13 +294,6 @@
       "score": 4
     },
     {
-      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdzFqU09YcXRHbzRGRkEyRElEenZKeFJNRW5wcjZVZjFwSllNdy1tSC1xV2lRa19rbFNQSC11V0VGVkdKNGdTdU14YTRNLW1jN1N5MUszU0tHUlhiYzR5c3B6dXlzd1lYQTAxV1NwRXg3QWoxd0V1T1RJZmd1ZFotUlJwYm1OaklLckZlS1YtRnlkNG8wWmFycU5OTFNjZk5SNDlUMWpaWVhiMWtiMlNVMUhIbFYzRVN5THhJekRVSVc4alRCR3VMdk1QOEYxTEE?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2026-11-09T08:00:00+00:00",
-      "score": 4
-    },
-    {
       "title": "Binance Alpha to remove several tokens - FX News Group",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSUJIT3hDU0dFOHJhcEgtc2RsRFlVMXNfNDZMazFnX21hSUVQZTh1YmxSRktXQkRNNWJiLUNINlIteUFtemZCZDdISHltcXYwdXZHVzEwaExPOU1qc2l4OTVFblVlRXRHekdfQ01qQXRldF9iTXVhR3dUWnN5TUFZR1NTTVZEay1XTzg4R0d4RTdhUjA?oc=5",
       "source": "Google News - Binance",
@@ -292,13 +306,6 @@
       "source": "Google News - Binance",
       "published": "2026-10-09T07:00:00+00:00",
       "score": 5
-    },
-    {
-      "title": "$TRUMP meme coin assures top buyers ‘exclusive’ dinner with president - MS NOW",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SYXVoMkxTdVl4eEpoNFk0Q21DZjBZdGktLXR1b2hNY3NFRFFsdGVqNy1PeGN1dXRiYUdDZTFmTVIyRmNVVWpNRDVmc0w1LThlR2Fqa2xrNEtUdXFWM1BRTUVkdw?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2026-10-02T07:00:00+00:00",
-      "score": 7
     },
     {
       "title": "THE OPPOSITE OF TRUMP! Governor Newsom signs bills to crack down on corruption, including meme coins by public officials - California State Portal | CA.gov",
@@ -371,6 +378,13 @@
       "score": 7
     },
     {
+      "title": "Introducing Enhanced Binance Alpha 2.0 Limit Order Liquidity Providers Program - Binance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGJkdldmbV9DQU9JWXJLend5eHhtbUlkT1BOR0dsQzNlUTluWHpSekc4c2s4OHRWLS1kQUdQUkcwWmx6b3Y5VFlscnM3T1pucEttRERTbDRBNFBfSXFsNS1wNXRWRkJLZlVlWnJacVUydmxLc29YMWZpWE5ka01vSjJiNlJMRldSU3oyb2ViSWg?oc=5",
+      "source": "Google News - Binance",
+      "published": "2026-04-20T07:00:00+00:00",
+      "score": 5
+    },
+    {
       "title": "Binance Alpha Guide: Low Fees, Fast Trades, Early Access Opportunities - Binance",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YMXo4RmQzV0FkRnpFUHpsQTVmWC1OREtQM1h1RnZ4b2NDbGo5Y2FwY3pqM08yQm1pbjZzMnRBRFlsVU55MWNCeDZ4QWpnczd3eWVQY3M5dmhFWUptT3VMX3dzbDY?oc=5",
       "source": "Google News - Binance",
@@ -425,13 +439,6 @@
       "source": "Google News - Binance",
       "published": "2026-01-02T20:29:00+00:00",
       "score": 5
-    },
-    {
-      "title": "Official Trump Crypto Game Revealed With $1 Million in Solana Meme Coin Rewards - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3RDUnljYmJ2UWZxaU90Q2pPRTN2eWl0TXFRMHJuOVk1aV9oZElTM29WM2dTUkRqdzFMcEwwV0RuMkF6cFc2NnJScjJ6MXdzQU9lNm0weGo5S1RtS0hhYmV2MUE1THp2X01DbnlGajBzY3BoY1I3ekVtbTBMZ2FzZW5ueTRidHdR?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2025-12-10T08:00:00+00:00",
-      "score": 9
     },
     {
       "title": "Binance Alpha News: Extreme Fear Grips Market as New Listings Queue Up - CoinMarketCap",
@@ -646,7 +653,7 @@
     {
       "title": "Argentina meme coin scandal dents Milei's hunt for election allies - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlF1NFVBaDM4QXdZT2VHM0xoU3JxWk9wSzFidm5TT2Y3TDVkRFlpY3hrWkJVV1Q1VWs2UVhzaUtfTGNiQVN0OHdzWUwwRDFQVkJZYTlaUng4c2U4dkJmUUtIaC1VOWc3RWZMT010Q1REWTNudU5QNnphTlhfV01kTUpNZ3ZJY3h1bGlwVTBxem5NNk80LUU0WnhfZnpMOEdVU2xwX1doX05zQWtKTDVCREF3?oc=5",
-      "source": "Google News - Pump.fun",
+      "source": "Google News - Celebrity memes",
       "published": "2025-02-27T08:00:00+00:00",
       "score": 4
     },
@@ -700,13 +707,6 @@
       "score": 6
     },
     {
-      "title": "$TRUMP Is Already Worth Billions. What to Know About the Meme Coin. - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13VnpJcl92dWhVZ0lPWXJ6SGgwbFl5UjNWOUFER1RfQ0RqY0JZdjBRU25LdjB3SDNTRE91RHh1a1d3bS0xQTI3UDJ1bWR3a21GdDFwbC14UmxqVEtfNVVKaHFBcnRSWlppNnJHWDRXWXpTanFIb3NwVQ?oc=5",
-      "source": "Google News - Pump.fun",
-      "published": "2025-01-23T08:00:00+00:00",
-      "score": 7
-    },
-    {
       "title": "Vine Meme Coin Soars As Elon Musk Considers Resurrecting App - Newsweek",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2Z5YUg1Q2pEOHZVLVhQakxjQnB2MThEVzVPSHR2czZPbm85SGgyWXhZNUZyX0VlS1k1RUFxRmRPVmkyTVFqUk43ZXA4OTlWVXptc2Y4X1ZoRm00M0ZFYzFKRWl4bHphVDliV2tZbTdwVDRvel9SaFhQTXhJS1V5QnUwbTJzV2s?oc=5",
       "source": "Google News - Celebrity memes",
@@ -745,7 +745,7 @@
       "title": "Trump promotes new meme coin before taking office on pro-crypto agenda - AP News",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRGR4b0ROWkUyQVdHeTRFMXpqdXp0WDlzYkdxbWUxZG9xNlJyVFY4dnltUWJHcFptZkU3OHFBTXZZYnpqeWdHR3hhcFBHbWlvNDB6MHh4RTFDbmU2NHBIYVk4MFZFa3F4MkU1Z1F5NkZPZk1XUFYxRGsyQUNORW5wZ1RTdGVFT1FrMzM1RW10SmxQUQ?oc=5",
       "source": "Google News - Pump.fun",
-      "published": "2025-01-19T08:00:00+00:00",
+      "published": "2025-01-19T15:14:47+00:00",
       "score": 7
     },
     {
@@ -758,13 +758,6 @@
     {
       "title": "Elon Musk’s cryptic post sent another memecoin soaring — momentarily - Quartz",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3ZRckpWcWl3bDBwR2xNMlhqUTFNaWI0SkoyYi1ZQzM2Vk9ueTFrSWZMSWVmTENCVjRjcnc1bFBBZVlDdFNxVm9DQ0lSLXNhZUFWNTdURWFCZU1wRDdRbEkxaGZLdFJ5UDdYWWVKT1Zyd25BMkdKZ3Q4MzEwdXAwaWYtUE8?oc=5",
-      "source": "Google News - Celebrity memes",
-      "published": "2025-01-02T08:00:00+00:00",
-      "score": 7
-    },
-    {
-      "title": "Kekius Maximus memecoin tumbles after Elon Musk reverts X profile name - The Block",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVVkwN0pSMnN6VzRsendIUWNZQVZ4SVhDMGdKMUdBR0c1d3V4NnZNcXZCT2t6T2JSZHMtX0RjREloeGFGeldTUDNrSlZER3JSTTJpS0RlOGcxYkJsQ1pycUY4aXJ3eHhoV3lYTFptVlEtRWpCbElqbVN3dXFUTFQwMDNIOTZFWlVvb0lZaUdCeUhPdw?oc=5",
       "source": "Google News - Celebrity memes",
       "published": "2025-01-02T08:00:00+00:00",
       "score": 7
